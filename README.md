@@ -209,6 +209,32 @@
 
 **来源**：[@zhu185178](https://x.com/zhu185178/status/2112127321905762500) · 文章：[我用 Opus 5.5 做了一条广告，这是完整教程](https://x.com/i/article/2112124221845598208) · 2026-10-19
 
+### @Steel_web（Sophie_404）："agents make the thing that makes the video"——Claude Code 代码驱动动效管线
+
+**核心提炼**
+- 解决什么问题：传统动效制作困在时间线+关键帧里，改一版就要重新调渲染——这套"代码驱动"管线把视频制作变成写代码：Claude Code 当导演兼动画师，视频引擎+动画库+Blender 当渲染农场，"睡觉时也在渲染"。
+- 核心用法（4 步）：1) 准备一个文件夹：spec.md（场景规格）+ assets/（素材）+ render.py（渲染入口）；2) 把文件夹交给 Claude Code，配好视频引擎、动画库、Blender；3) Claude 写场景（scene），引擎逐帧渲染，ffmpeg 合成音频；4) 要改版？直接改代码——"the edit is a git diff"，没有时间线、没有关键帧。
+- 什么时候用 / 常见坑：适合动态图形/信息可视化/产品演示类视频，拍不了真人实拍质感；这是方法论分享帖（附 25 秒实拍演示视频），没有开源仓库——照着搭需要自己备齐引擎和 Blender；英文原帖，核心概念已提炼。
+
+**适用场景**：动态设计师、想把"改稿"变成"改代码"的视频创作者、有代码动手力的人。
+
+**怎么用它搞钱**：动态图形/数据可视化视频代做 / 把"agent 渲染农场"打包成工作室服务。
+
+**来源**：[@Steel_web](https://x.com/Steel_web/status/2112802429821678034)（线程共 3 帖：25 秒演示视频 + 方法论 + 技术栈）· 2026-10-21
+
+### @drahcir_rahl：Hermes Agent 端到端视频工具链——非视频专业者的开箱方案
+
+**核心提炼**
+- 解决什么问题：不是视频专业出身的人，面对一堆 AI 视频工具不知道怎么串成完整流程——这套 toolchain 把"常用的 agentic 工具"编排成一套端到端方案，让非专业的人也能跑完"采集→制作→后期"全流程。
+- 核心用法（3 段架构，按仓库描述）：1) OpenScreen capture（录屏/采集）；2) HyperFrames authoring（HTML 代码驱动出片，库内已有 HyperFrames 条目可对照）；3) headless post-processing（无头后期处理）；三段"wired into one skill"——装成一个 skill，Agent 直接调用。
+- 什么时候用 / 常见坑：适合想给自家 Agent 配"一键出视频"能力的开发者；仓库刚开源（1★、2026-10-20 更新），社区验证尚浅，先跑通再量产；仓库暂无明确 LICENSE，商用前注意授权；Shell 脚本形态，需要一定动手力。
+
+**适用场景**：想给 Agent 加视频生产能力的开发者、非视频专业的 AI 创作者。
+
+**怎么用它搞钱**：Agent 视频能力代建 / 非专业客户的"一键出片"服务。
+
+**来源**：[@drahcir_rahl](https://x.com/drahcir_rahl/status/2112786295386693787)（线程 1/，附 150 秒演示视频）· 项目：[rahlquist/hermes-video-toolchain](https://github.com/rahlquist/hermes-video-toolchain)（⭐1 · 更新于 2026-10-20）· 2026-10-21
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -237,6 +263,8 @@
 发现好的流水线 / 生产管线 prompt / skill，欢迎提 Issue 或 PR（格式见 CONTRIBUTING.md）。
 
 ## 更新日志
+
+- 2026-10-21：午档搜集（优先队列第 10 天）——X 新增 2 条管线实战帖提炼入库（@Steel_web Claude Code 代码驱动动效管线：spec.md+render.py+ffmpeg，"edit 就是 git diff" / @drahcir_rahl Hermes 端到端视频工具链：OpenScreen 采集+HyperFrames 制作+无头后期装成一个 skill，仓库 rahlquist/hermes-video-toolchain 经 API 核验真实）；浏览器任务报告链路故障（任务执行完毕但报告未送达），2 条为任务执行中实际打开核验的帖子经 fxtwitter API 直读补全
 
 - 2026-10-21：早档搜集（优先队列第 10 天）——X 新增 6 条管线实战帖提炼入库（@techniqco n8n 企业级 Shorts 管线 / @Chenfacai0 Toonflow 短剧流水线 / @xoyif63862452 7 套 Skills 选型地图 / @qinghaiwu9527 WorkBuddy 漫剧智能体团队 / @justloveabit HyperFrames 实操 / @zhu185178 Opus 5.5 广告分镜师）+ GitHub 新增 3 个项目（AutoVio / Video Generation Workflow Skill / Remotion Idea to Video），6 个老条目 star 与更新时间刷新
 
