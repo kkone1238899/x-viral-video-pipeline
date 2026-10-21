@@ -339,6 +339,64 @@
 
 **来源**：[@aisongman](https://x.com/aisongman/status/2112789402053484904)（附 1 分钟成片）· 2026-10-21
 
+### @ai_goge（Daniel.S）：Claude 被封后，我开始用 Cursor 做视频——Opus 5.5 + Remotion 12 官方 Skill 全流程
+
+**核心提炼**
+- 解决什么问题：Claude 账号被封后，用 Cursor 跑 Opus 5.5 + Remotion 做动画——从第一条提示词到导出 MP4 的完整实操记录，10 分钟跑通第一条。
+- 开工前三条铁律：默认只预览不渲染（不明确说"渲染/导出/给我 MP4"，Opus 只开 Studio 预览）；配音默认走 ElevenLabs（要 API Key）；字幕用本机 GPU 跑 Whisper（免费，Mac 第一次要实测）。分工一句话：你出判断、Opus 写代码、Studio 预览、Remotion 出片。
+- 10 分钟跑通：Cursor Agent 模式（不是 Ask）打开 ~/remotion-videos→读 remotion-best-practices 总路由→remotion-create→npx remotion studio 浏览器预览→src/ 写组件→Root.tsx 注册→说"渲染成 MP4"导出（也可点 Studio 右上角 Render 按钮）。
+- 12 官方 Skill 地图：总路由 best-practices；create（新建，npx create-video --blank）；markup（80+ 特效，动画只能 useCurrentFrame()+interpolate() 驱动）；interactivity（Studio 直接拖改自动写回代码，省 token）；captions（本机 Whisper 逐词高亮）；maps / multimedia / docs / studio / render / saas（批量：Player/Lambda/自建渲染）/ upgrade。
+- 路线规划：15 秒竖版金句卡跑通→沉淀成模板→加声音→批量（一份 JSON/表格放 10 条观点，脚本批量渲染 10 条视频）。
+- 什么时候用 / 常见坑：适合想用 Cursor/Claude Code + Remotion 做代码化视频的人；技能装在 ~/.agents/skills/（Cursor）与 ~/.claude/skills/，版本 4.0.536 需与项目一致；小改 Studio 里拖、大改再找 Opus（省 token）；Agent 必须在正确文件夹里开，否则它会去别处建项目。
+
+**适用场景**：想搭 Remotion 代码视频管线、不熟悉 React 的创作者。
+
+**怎么用它搞钱**：金句卡/知识动画批量代做 / Remotion 管线搭建服务。
+
+**来源**：[@ai_goge](https://x.com/ai_goge/status/2112731798811894180) · 文章：[Claude 被封后，我开始用 Cursor 做视频](https://x.com/i/article/2112717418980392960) · 2026-10-21
+
+### @Decoded08：4 个 Prompt 把品牌 brief 变成 30 秒动态排印广告
+
+**核心提炼**
+- 解决什么问题：传统动效=时间线+模板库+一下午关键帧——4 个 prompt 把虚构品牌 POPSY 从文字 brief 做到 30 秒 kinetic-typography promo：浏览器里播放、可换字给任何客户、可录成视频文件。
+- 核心用法（4 步）：1) Claude 写一页 brief（品牌/受众/6 个定时场景+每场景确切文案+每词动效+配色+字体），存 brief.md 当 single source of truth（每节拍 1–4 个词，文案多了再好的代码也救不了）；2) Claude Code 读 brief.md 写 index.html/style.css/script.js，打开即播（central timeline+固定场景时间，scrub/loop/record 才可靠）；3) 加控制与录制：播放/暂停/scrubber、16:9/9:16/1:1 切换、live text editor 换字、Record 导出 .webm（每种画幅都测一遍，竖屏会挤）；4) premium polish：overshoot easing、motion blur、film grain、beat-locked timing（polish 最后加，先盖 bug 只会更显眼）。
+- 三个坑：屏上词太多、散乱 setTimeout（用 central timeline）、录制前不查画幅。
+- 什么时候用 / 常见坑：适合小品牌 launch promo、Gumroad 卖可换字模板、月度剪辑包、YouTube 片头；工具只有 Claude（免费版够写 brief）+Claude Code+浏览器+空文件夹，无视频编辑器无模板无插件；英文原帖，附 YouTube 完整教程。
+
+**适用场景**：接小品牌广告/宣传片的人、想卖可复用视频模板的人。
+
+**怎么用它搞钱**：小品牌 launch promo 代做 / Gumroad 卖可换字模板 / 月度剪辑包订阅。
+
+**来源**：[@Decoded08](https://x.com/Decoded08/status/2112781923500302726)（附 YouTube 完整教程）· 2026-10-21
+
+### @GoSailGlobal（Jason Zhu）：16 个做视频 Skill 同题实测——只推 3 个
+
+**核心提炼**
+- 解决什么问题：16 个做视频的 skill 做同一条 15 秒宣传片，全部过关——但差别巨大：什么都不装的 Claude Code 也过关（4.4 分钟），说明 skill 的价值不在"能不能做"，而在时间/声音/长相。
+- 实测数据（同题 15 秒片用时）：explainroo 2.0 分钟（最快）、不装 skill 4.4、Remotion 官方 4.5、onetake 8.5、motion-video-kit 21.8、hyperframes 23.5（最慢）；16 个里 9 个自己做了声音，6 个和不装的长得很像；只推 3 个。
+- 什么时候用 / 常见坑：选型参考——先看这份实测再决定装哪个 skill，别盲目全装；16 条成片在 agentskillshub.top 可直接播放对比；GitHub 合集 zhuyansen/awesome-claude-video-skills（772★，2026-10-20 更新）；附 YouTube 高清版《Claude Code 做视频要装哪个 Skill？》；注：此 Jason Zhu 与 @zhu185178（Feicai）不是同一人。
+
+**适用场景**：要在众多视频 skill 里选型的人、想评估 skill 真实水平的人。
+
+**怎么用它搞钱**：按这份实测给客户搭管线做代建 / skill 选型咨询。
+
+**来源**：[@GoSailGlobal](https://x.com/GoSailGlobal/status/2112801857144029440)（附 3:06 演示视频）· 合集：[zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills)（⭐772 · 更新于 2026-10-20）· 2026-10-21
+
+### @S1MP23503787（Visionary）：本地模型 AI 模特生成全流程——12GB 显存跑通图+视频
+
+**核心提炼**
+- 解决什么问题：RTX 5070（12GB 显存）本地跑通"想法→提示词→照片→换头/换发型/换姿势/换机位→360°环绕和舞蹈视频"全流程——新手向的 ComfyUI 本地化生产工作流，Codex 当搭建助手。
+- 模型配置（INT8 量化+分阶段加载，12GB 显存的关键）：生图/编辑 Qwen-Image 2.1（INT8 ConvRot）+文本编码 Qwen3-VL 8B；换头 BFS Head V1.1；换姿势 Fisher Pose+VNCCS PoseStudio；换机位 QMA Camera Angles LoRA；视频 MiniMax H3 FL2VA Pruned（INT8）+360 Orbit LoRA；脸部修复 Director FaceRefine；Codex 查配置/读写工作流/排错。
+- 完整流程：普通生图（先立住人物画面）→换头（BFS，跨服装场景保连续性）→换发型（文字直改免蒙版）→换姿势（骨架预设）→换机位（QMA LoRA 出多镜头）→360°环绕（H3+Orbit LoRA：首尾同一张图、768×768、73 帧、28 步）/跳舞（H3 图生视频：4 秒、448×448、24fps、8 步加速）→FaceRefine 自动检测跟踪重绘人脸→导出。
+- 安装验证顺序：普通生图→单项编辑→H3 短视频→环绕→舞蹈→FaceRefine，每过一关保存可用版本；权重 huggingface.co/Comfy-Org/Qwen-Image-2.1、Comfy-Org/MiniMax-H3。
+- 什么时候用 / 常见坑：适合想本地化部署 AI 写真/短视频产能的人（数据私有、不烧云 credits）；12GB 能跑≠全模型常驻，靠量化+分阶段加载+内存卸载；环绕视频属生成式结果，产品级几何展示仍需逐帧检查；脸部修复保留前后双版本对比挑。
+
+**适用场景**：AI 写真/电商模特从业者、想本地化视频产能的工作室。
+
+**怎么用它搞钱**：AI 模特写真代做 / 电商服装换模特服务 / 本地化部署咨询。
+
+**来源**：[@S1MP23503787](https://x.com/S1MP23503787/status/2112798918094516435) · 文章：[利用本地模型，最大程度开发AI模特生成功能（新手分享版）](https://x.com/i/article/2112798521133068289) · 2026-10-21
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -367,6 +425,8 @@
 发现好的流水线 / 生产管线 prompt / skill，欢迎提 Issue 或 PR（格式见 CONTRIBUTING.md）。
 
 ## 更新日志
+
+- 2026-10-21：午档再补录（优先队列第 10 天）——第二份迟到报告（重派任务）送达，确认 14 命中，X 新增 4 条提炼入库：@ai_goge Claude+Cursor+Remotion 12 官方 Skill 全流程（10 分钟跑通/批量路线）/ @Decoded08 4 prompt 动态排印广告管线（brief.md single source of truth）/ @GoSailGlobal 16 个视频 skill 同题实测（只推 3 个，合集 772★）/ @S1MP23503787 本地 ComfyUI AI 模特图+视频全流程（RTX 5070 12GB，Qwen-Image 2.1+MiniMax H3）；@Steel_web 线程确认为 5 帖（已收录 3 帖核心无误）；@CrazyKaomei 火柴人风格 5 仍按宁缺毋滥未收；4 帖正文与时间戳经 fxtwitter API 逐条直读核验
 
 - 2026-10-21：午档补录（优先队列第 10 天）——迟到的浏览器任务报告送达（15 组关键词×Latest+10 账号时间线全量执行），X 新增 8 条管线实战帖提炼入库：@yuanliuwei×4（暗黑数据科普 Skill 6 步流水线 / Vibe 知识大赏保姆级复刻教程 / Grok Bot 0 员工短视频工作室 7 条产线 / 心理科普 Skill 5 步流水线，均 MIT 开源）+ @justloveabit huashu-motion（一句话出 30 秒 4K 宣传片，"指着画面改"，1194★）+ @xiaohu AI 日报视频版 Demo（Claude Code 全流程+模板自动化）+ @lisenhai9999 YouTube Shorts 月入 $1200 四步管线 + @aisongman Claude Code 全自动 MV（2K 唇形同步，232 credits）；@CrazyKaomei 火柴人风格 5 为技能更新帖非管线方法论、按宁缺毋滥未收；8 帖正文与时间戳均经 fxtwitter API 直读核验，6 个仓库 star/更新时间经 API 核验
 
