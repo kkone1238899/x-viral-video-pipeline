@@ -1220,6 +1220,45 @@
 
 **来源**：[sjtuplayer/showvi](https://github.com/sjtuplayer/showvi) · ⭐127 · MIT · 更新于 2026-11-11
 
+### @Chenfacai0（陈发财）：Infinite——开源本地 AI 短剧创作工具，一张无限画布走完剧本→分镜→图片→视频→成片
+
+**核心提炼**
+- 解决什么问题：做短剧要在多个工具之间来回倒腾剧情、角色、场景和生成素材；Infinite 把剧本、分镜、图片与视频生成整合到同一张无限画布，本地工作台，可接多种 AI 模型。
+- 核心用法（4 步）：1) 批量规划短剧剧情：输入一个故事构想，AI 先产出故事梗概与主要角色，再分批生成各集剧情，默认按 100 集规划，支持前情提要与断点续写，不必一次性生成完整剧本；2) 无限画布与节点工作流：角色、场景、剧本、分镜、图片、视频等 10 类节点自由摆放连线，上游输出作为下游输入，如角色+场景节点接入剧本节点，生成时带入此前设定，每集分镜可整理成一面分镜墙；3) 图片、视频生成与合并：文本、图片、视频可分别配置不同模型 API，分镜生成后接着生成主视觉图，再由图片生成视频片段，项目提供基于 FFmpeg 的视频拼接与下载；4) 2D 导演台：输入镜头描述（人物位置、机位与光线），AI 拆解出场景、人物姿势及构图方案，分别生成背景与人物图层，在导演台内调整位置、大小、图层顺序与打光，最终导出图片。
+- 什么时候用 / 常见坑：适合想从 0 搭本地短剧生产工作台、批量出剧的人；完整链路是想法→一键生成（可自定义集数）→逐集生成分镜（每集弹窗确认）→分镜产生图片→图片转视频→视频连在一起成片；支持 DeepSeek/智谱/OpenAI 等自带 API，多模型自由搭配，工程本地存为 project.json；仓库刚开源仅 19★、暂无 LICENSE，商用前先确认授权；与库内已收的 infinite-creation（小说一键转长视频）不同仓、不同工具。
+
+**适用场景**：短剧工作室、想批量产出短剧的创业者、本地化短剧生产。
+
+**怎么用它搞钱**：短剧批量生产代做 / 本地短剧工作台搭建。
+
+**来源**：[@Chenfacai0](https://x.com/Chenfacai0/status/2122212067079803336) · 项目：[LZ1226-OSS/infinite](https://github.com/LZ1226-OSS/infinite)（⭐19 · 暂无 LICENSE · 更新于 2026-11-16）· 2026-11-16
+
+### @CY160909（Shlcy）：AI Canvas Tauri——一个画布搞定 AI 短剧，剧本/分镜/视频/ComfyUI 全放在一起
+
+**核心提炼**
+- 解决什么问题：做短剧时角色设定、分镜、生成图片和视频经常要在不同工具之间整理；AI Canvas Tauri 把剧本、分镜、图片、视频和剪辑全部放进一张画布。
+- 核心用法（4 步）：1) 剧本可拆成不同分集，每集都有自己的画布，整部剧共享角色库和素材；2) 分镜连接图片、视频生成节点，生成链路直接在画布上走通；3) 字幕和配音送进内置剪辑器，继续调整时间轴；4) 支持 ComfyUI 工作流，画布还能让 Agent 操作。
+- 什么时候用 / 常见坑：适合想把短剧全流程收进一个工作台、已有 ComfyUI 工作流想复用的人；与 @Chenfacai0 同日推荐的 Infinite 是不同的两个开源工具、不同仓库；暂无 LICENSE（GitHub 未识别），商用前先确认授权。
+
+**适用场景**：短剧工作室、ComfyUI 用户、想一站式管短剧全流程的创作者。
+
+**怎么用它搞钱**：短剧全流程代做 / ComfyUI 短剧工作流搭建。
+
+**来源**：[@CY160909](https://x.com/CY160909/status/2122211393554243748) · 项目：[Tenney95/AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri)（⭐371 · 暂无 LICENSE · 更新于 2026-11-16）· 2026-11-16
+
+### @sol0founder：最简剪辑自动化——Claude Code + ffmpeg，口头描述就能剪片
+
+**核心提炼**
+- 解决什么问题：剪一条片子还要学剪辑软件、记 ffmpeg 参数；最简方案是把剪辑交给 Claude Code，用嘴说需求，让它写命令、跑命令。
+- 核心用法（3 步）：1) 把素材放进一个文件夹，在该文件夹里打开 Claude Code；2) 用语言描述剪辑需求（裁剪、去静音、变速、导出 9:16），它编写并运行 ffmpeg 命令；3) 需要字幕加 Whisper，需要动效图形再加 Remotion。
+- 什么时候用 / 常见坑：适合口播、访谈、素材已拍好的粗剪与批量处理；这是评论区回复推荐的小方案（回复 @sahal_rajiv），干货强度弱于同档两条画布工具；与库内已收的 ffmpeg-skill（42 工具打包成 Agent 技能）互补——一个是"口头描述现剪"，一个是"工具契约化批量剪"。
+
+**适用场景**：口播/访谈粗剪、已有素材的批量剪辑、想零学习成本上手自动化剪辑的人。
+
+**怎么用它搞钱**：口播剪辑代做 / 轻量剪辑自动化搭建。
+
+**来源**：[@sol0founder](https://x.com/sol0founder/status/2122219423469580503)（评论区回复 @sahal_rajiv）· 2026-11-16
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -1249,6 +1288,7 @@
 
 ## 更新日志
 
+- 2026-11-16：午档搜集（优先队列第 10 天，第三轮）——X 新增 3 条管线实战帖提炼入库：@Chenfacai0 Infinite 开源本地 AI 短剧创作工具（无限画布 + 10 类节点工作流 + 默认 100 集批量规划 + 2D 导演台，LZ1226-OSS/infinite 19★ 暂无 LICENSE）/ @CY160909 AI Canvas Tauri 一个画布搞定 AI 短剧（分集画布 + 共享角色库 + 分镜接图片/视频生成节点 + 内置剪辑器 + 支持 ComfyUI 工作流 + 画布可让 Agent 操作，Tenney95/AI-Canvas-tauri 371★ 暂无 LICENSE）/ @sol0founder 最简剪辑自动化（Claude Code + ffmpeg 口头描述剪辑，Whisper 字幕、Remotion 动效，评论区回复）；3 帖正文与时间戳均经 fxtwitter API 逐条直读核验（14:13／14:16／14:45 北京）；去重：两仓均与库内已有条目不同仓（Infinite ≠ infinite-creation）；剔除：@TheEasySale1 90% 自动化断言无步骤、@FootballAnt247 6.24 美元复刻断言无方法、@tetumemo 二手转述 11-14 工具汇总、@ScarletKc 观感散文无方法、@Mike_Andreuzza Remotion 模板推广；14 组关键词×Latest + 18 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；未查完如实注明："视频 自动化"未加引号组噪声大只扫前两屏，09:00–13:00 时段可能有漏网；@KOF97AI、@FootballAnt247、@awe0_io 等高频回复账号只看首屏未逐条翻完今日全部回复；ComfyUI 组初载曾现 @zhaoyan_ai Seedream 4.5 + Wan2.2 工作流帖，状态 ID 打开不存在、按账号名打开显示账号不存在，无法二次核实未计入；覆盖截至约 15:06，之后新帖不在本次范围；指针未推进（21:00 档负责）；本轮第 10 天，非汇报日（第 9+10 天两日汇报待第 10 天晚档形成）
 - 2026-11-16：早档搜集（优先队列第 10 天，第三轮）——X 新增 27 条管线实战帖提炼入库（25 个条目：@zdt0403 social-auto-upload 分发实测 / @somi_ai OCR 自检闭环 / @Manorgw 魔因漫创 + oowaoo（火宝短剧已在库内不重复）/ @KOF97AI H3 导演级工作流 / @snakeace 错误别传到下一层 + 独立 agent 盲审 / @l1483705 短剧流水线四层架构 / @PixelAigc 双语 MV 单人流水线 / @swordBluesy n8n 三道防线控成本 / @awe0_io 8 个视频 AI 选型 / @macdog 30 条灵修视频 README-first 博客 / @DylanGrabowski "cut that" 口播流水线 + 递归学习 / @HeLi8866 20 仓库动效工作室 / @Chenfacai0 14 个开源项目交 Opus 5.5 / @KOF97AI MiniMaxDirector 三轨道时间线 / @beebidao 5 件套 Muse 工具链 / @GeekCatX AI 美女七步复刻教程 / @vintcessun Freefield 清单驱动 / @AgentSparko LTX 许可证选型 / @xiaojiangtt 先管人物一致性再谈批量 / @GitTrend0x mileson 中文视频全流水线 / @daodao166888 极限生存 + 人类冷知识双案例 / @shengtang135754 Antigravity + Colab G4 预装 H3 / @Manorgw + @xoyif63862452 OpenMontage 12 条流水线 + 1.33 美元案例 / @don_tech1 ffmpeg-skill 42 工具本地剪辑 / @aigcgu Gemini Decisions API 分层判断）；GitHub 新增 16 个项目（X 帖带入 10 个：AIMixer/ComfyUI_MiniMaxH3_Director 2817★、imbutus/ComfyUI-MiniMaxDirector 131★、neuregex/freefield 1443★、kajisho5/ffmpeg-skill 5977★、MemeCalculate/moyin-creator 4855★、waooAI/waoowaoo 14865★、mileson/chaojifeng-video-content-creator 86★、dreammis/social-auto-upload 16568★、OpenMontageInc/OpenMontage 80726★、andyhuo520/vibe-knowledge 673★；补充关键词 `ai video agent` 命中 6 个：openfilm 7521★、baocut 1772★、video-db/Director 1587★、Pilipili-AutoVideo 210★、ai-video-agent 163★、showvi 127★；文档关键词 `ai video pipeline`/`video generation workflow` 0 新、`ai video automation` 补充 0 新）；老条目 star 刷新 24 个（hyperframes 68514→84757、hypit 27564→30013、Toonflow 18670→21900、huobao-drama 16962→17526、autoclip 9601→10518、Y2A-Auto 3936→5011、Jellyfish 6791→7190、huashu-motion 1194→2743、vibe-knowledge-film 484→1345（已迁移 HeyChengC）、awesome-claude-video-skills 772→2156、automate-faceless-content 3170→3300、short-video-factory 6031→6153、infinite-creation 189→347、ComfyUI-MiniMax-H3-Workflow 130→474、ComfyUI-H3-Motion-Context 1339→1370、aid-studio 1275→1434（已迁移 shijue-aid）、AI-Faceless-Video-Generator 521→540、shuohao-skills 4883→6685、autovio 34→37、hermes-video-toolchain 1→19、write-screenplay-skill 8→12、dark-infographic-video-skill 0→2、psych-kepu-video-skill 0→1、blcaptain-lingjian-video 254→256；NickQi688 60★ 不变仅更新日期）；27 帖正文与时间戳均经 fxtwitter API 逐条直读核验，浏览器报告多处偏差已按原文纠正（HeLi8866 与 awe0_io 两份清单原文与报告完全不符、snakeace 无 Seedance/Fable 句、DylanGrabowski 无切语气词/字幕说法、swordBluesy 主帖为三道防线而非成本表、PixelAigc 无 H3 参数与 90/10 拆分、GeekCatX 无 15 张免费图/5 秒 80 积分说法、macdog 博客无 30 条低于 3 美元/27 条一次过说法、Manorgw 第三项为 huobao-drama 而非 Sume Director Studio、KOF97AI 链接实为 huangserva/ComfyUI_MiniMaxH3_Director、beebidao 原文为 Muse 而非 Claude、xiaojiangtt 合规点为接已登录 Muse 而非调第三方 API、AgentSparko 父帖无时间戳修片说法、aigcgu 解法部分为同串后续自回复未逐条核验、zdt0403 文章无 50MB 约 40 秒/7-8 成功说法）；去重：@Manorgw huobao-drama 与 shuohao-skills、@justloveabit Hypit 均与库内已有条目同仓重合不重复计，仅刷新星数；@itsyhy 日更流水线 Article 已在病毒视频合集库收录，跨库不重复计；剔除：@MinamiAiStudio MCP 工作流（细节未公开、候补名单引流）、@KOF97AI CreatorHub（跨平台搬运工具、合规风险）、@itsyhy Grok Bot 流水线（文字无步骤）、@FootballAnt247 呼吸肩膀提示词（属提示词优化类目，记信号）；14 组关键词×Latest + 31 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；未查完如实注明：作者抽查用 from: 关键词搜索而非逐条翻时间线、未含关键词的帖子可能漏检，窗口最后 1 小时（11-16 08:00–09:00）靠补查覆盖、不能保证无遗漏，@superfang119 的 11-12 索引长文只看了摘要；指针未推进（21:00 档负责）；本轮第 10 天，非汇报日（第 9+10 天两日汇报待第 10 天晚档形成）
 - 2026-11-03：晚档搜集（优先队列第 10 天，第二轮）——X 新增 8 条管线实战帖提炼入库：@Alinsees AI 视频小白指路（3 条变现路 × 3 条画面路线 × 6 层工具架构全局选型地图，云端 1080p 约 0.08–0.15 元/秒、2 分钟成片约 100–130 元，OPC 接单按分钟交付）/ @PixelAigc 最稳 H3 工作流（首尾帧/文生/图生视频 + Turbo LoRA，8G 4080 与 12G 3060 均可跑，pixelaigc/ComfyUI-MiniMax-H3-Workflow 130★ 暂无 LICENSE）/ @superfang119×2（Infinite Creation 小说一键转长视频本地 Agent 流水线：人物圣经 + 风格指南 + 场景站位表、35 个 Skill、66 种风格模板，SwotAtmk/infinite-creation 189★ MIT；知微学导演 12 长视频连续性：故事状态表 + Motion Context OFF/ON 对照选片、返工 138 帧、两窗均"局部接受保留偏差"，工具 NikoDemon80/ComfyUI-H3-Motion-Context 1339★ GPL-3.0）/ @jarvis11x Muse 工具实测（一句话拆 N 个 10 秒镜头、批量抽卡 + 自动选片拼长片，帖内无仓库链接只收方法）/ @evals_ag 一个 AI 导演 × 4 模型（任务书不写分镜、定妆照先行、8 段式骨架、Seedance 拒拍后换机补拍、对白分工）/ @TanLuAI ComfyUI 保姆级教程（节点/连线/工作流入门 + H3 官方模板 21 节点拆解、快速模式开关、缓存机制）/ @AGUI72678775 Google Flow + Veo 3.1 西安旅游 31.67 秒全流程（四幕 ×7.9 秒、强制静音演员、侧链闪避混音、字幕安全区）；10 帖正文与时间戳均经 fxtwitter API 逐条直读核验，浏览器报告三处偏差已按原文纠正（@superfang119 连续性课非"ON 更优"、实为两窗一 OFF 一 ON 且均保留偏差；@evals_ag 非"改写提示词绕过拒绝"、实为换 Kling 3.0 Pro 补拍；@TanLuAI 文章无"批量排队 10–20 条、配音字幕 BGM 导出 1080p"说法）；去重：@Manorgw huobao-drama 帖与库内已有条目同仓重合不重复计，仅刷新星数 16453→16962；@ganfanren_ai MoneyPrinterTurbo 帖与库内 7 套选型地图条目同仓重合不重复计（仓库当日核验 138001★ MIT）；10 组关键词×Latest + 10 位作者时间线抽查全部查完，登录态正常、全程只读无互动、未遇真人验证；指针推进→人物构建（优先队列第 11 天，第二轮）；本轮第 10 天，已形成第 9+10 天两日汇报（见 final message）
 
