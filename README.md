@@ -21,7 +21,7 @@
 
 **怎么用它搞钱**：短剧批量生产 / 小说推文。
 
-**来源**：[chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) · ⭐16962 · 更新于 2026-11-01
+**来源**：[chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) · ⭐17526 · 更新于 2026-11-16
 
 ### AutoClip（zhouxiaoka/autoclip）
 
@@ -34,7 +34,7 @@
 
 **怎么用它搞钱**：知识付费 / 课程切片代运营。
 
-**来源**：[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) · ⭐9601 · 更新于 2026-10-21
+**来源**：[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) · ⭐10518 · 更新于 2026-11-16
 
 ### Jellyfish（Forget-C/Jellyfish）
 
@@ -47,7 +47,7 @@
 
 **怎么用它搞钱**：短剧工作室降本接单。
 
-**来源**：[Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) · ⭐6791 · 更新于 2026-10-20
+**来源**：[Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish) · ⭐7190 · 更新于 2026-11-16
 
 ### Automate Faceless Content（cporter202/automate-faceless-content）
 
@@ -60,7 +60,7 @@
 
 **怎么用它搞钱**：养生 / 故事号矩阵。
 
-**来源**：[cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content) · ⭐3170 · 更新于 2026-10-20
+**来源**：[cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content) · ⭐3300 · 更新于 2026-11-15
 
 ### AI Faceless Video Generator（SamurAIGPT/AI-Faceless-Video-Generator）
 
@@ -73,7 +73,7 @@
 
 **怎么用它搞钱**：口播号代做。
 
-**来源**：[SamurAIGPT/AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) · ⭐521 · 更新于 2026-10-20
+**来源**：[SamurAIGPT/AI-Faceless-Video-Generator](https://github.com/SamurAIGPT/AI-Faceless-Video-Generator) · ⭐540 · 更新于 2026-11-15
 
 ### Lingjian Video / 灵剪（dososo/blcaptain-lingjian-video）
 
@@ -86,7 +86,7 @@
 
 **怎么用它搞钱**：本地商家探店代运营。
 
-**来源**：[dososo/blcaptain-lingjian-video](https://github.com/dososo/blcaptain-lingjian-video) · ⭐254 · 更新于 2026-10-17
+**来源**：[dososo/blcaptain-lingjian-video](https://github.com/dososo/blcaptain-lingjian-video) · ⭐256 · 更新于 2026-11-13
 
 ### AutoVio（Auto-Vio/autovio）
 
@@ -99,7 +99,7 @@
 
 **怎么用它搞钱**：产品演示视频代做 / SaaS 营销视频接单。
 
-**来源**：[Auto-Vio/autovio](https://github.com/Auto-Vio/autovio) · ⭐34 · 更新于 2026-10-30
+**来源**：[Auto-Vio/autovio](https://github.com/Auto-Vio/autovio) · ⭐37 · 更新于 2026-11-12
 
 ### Video Generation Workflow Skill（NickQi688/video-generation-workflow）
 
@@ -112,7 +112,7 @@
 
 **怎么用它搞钱**：知识教程视频代做 / 产品演示视频商单。
 
-**来源**：[NickQi688/video-generation-workflow](https://github.com/NickQi688/video-generation-workflow) · ⭐60 · 更新于 2026-09-07
+**来源**：[NickQi688/video-generation-workflow](https://github.com/NickQi688/video-generation-workflow) · ⭐60 · 更新于 2026-10-25
 
 ### Remotion Idea to Video（coleam00/archon-video-generation-workflow）
 
@@ -155,7 +155,7 @@
 
 **怎么用它搞钱**：短剧批量生产接单 / 漫剧推文号矩阵。
 
-**来源**：[@Chenfacai0](https://x.com/Chenfacai0/status/2112687305920033024) · 项目：[HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)（⭐18670 · MIT · 更新于 2026-10-21）
+**来源**：[@Chenfacai0](https://x.com/Chenfacai0/status/2112687305920033024) · 项目：[HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)（⭐21900 · MIT · 更新于 2026-11-16）
 
 ### @xoyif63862452（北衡）：Agent 做视频——7 套现成 Skills 的选型地图
 
@@ -174,7 +174,7 @@
 
 **核心提炼**
 - 解决什么问题：漫剧制作六道工序（大纲→角色→美术→剧本→分镜→出图）人工接力慢——这套在 WorkBuddy 里搭"六名执行角色 + 一名总调度"的智能体团队，3700 字小说从大纲一路推到分镜，全套资产设计自己跑完。
-- 核心用法（4 步）：1) 装开源技能包 eternityspring/shuohao-skills（4883★、Apache-2.0，Node 18+、无 npm 依赖）；2) 上传小说，六个技能按工序自动接力：novel-outline（短剧大纲五件套，14 道质量门）→ novel-characters（角色形象+音色提示词）→ novel-art（场景道具美术设定，10 道门）→ novel-script（场次节拍流+时长折算，10 道门）→ novel-storyboard（分镜图，直出 H3 和 Seedance 投产包，18 道门）→ character-refs（出图，支持 Qwen/codex/GPT Image）；3) 质量门自动把关，不合格打回；4) 用 Seedance 生成视频（1080P 2 秒/积分、720P 3 秒/积分，3700 字小说全部视频约 150 积分）。
+- 核心用法（4 步）：1) 装开源技能包 eternityspring/shuohao-skills（6685★、Apache-2.0，Node 18+、无 npm 依赖）；2) 上传小说，六个技能按工序自动接力：novel-outline（短剧大纲五件套，14 道质量门）→ novel-characters（角色形象+音色提示词）→ novel-art（场景道具美术设定，10 道门）→ novel-script（场次节拍流+时长折算，10 道门）→ novel-storyboard（分镜图，直出 H3 和 Seedance 投产包，18 道门）→ character-refs（出图，支持 Qwen/codex/GPT Image）；3) 质量门自动把关，不合格打回；4) 用 Seedance 生成视频（1080P 2 秒/积分、720P 3 秒/积分，3700 字小说全部视频约 150 积分）。
 - 什么时候用 / 常见坑：适合做漫剧/短剧、想把"资产设计"环节自动化的团队；想 0 积分跑通也有三条路：ComfyUI+ControlNet、开源视频模型本地部署、Kling 每日免费额度；直出 H3/Seedance 投产包是亮点，MiniMax H3 用户优先。
 
 **适用场景**：漫剧/短剧团队、小说推文号、想自动化资产设计环节的人。
@@ -194,7 +194,7 @@
 
 **怎么用它搞钱**：产品介绍视频代做 / 数据可视化短视频接单。
 
-**来源**：[@justloveabit](https://x.com/justloveabit/status/2111682519796166979) · 项目：[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)（⭐68514 · Apache-2.0 · 更新于 2026-10-21）
+**来源**：[@justloveabit](https://x.com/justloveabit/status/2111682519796166979) · 项目：[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)（⭐84757 · Apache-2.0 · 更新于 2026-11-16）
 
 ### @zhu185178（Feicai）：Opus 5.5 当导演——开源工作流「广告分镜师」完整实战
 
@@ -233,7 +233,7 @@
 
 **怎么用它搞钱**：Agent 视频能力代建 / 非专业客户的"一键出片"服务。
 
-**来源**：[@drahcir_rahl](https://x.com/drahcir_rahl/status/2112786295386693787)（线程 1/，附 150 秒演示视频）· 项目：[rahlquist/hermes-video-toolchain](https://github.com/rahlquist/hermes-video-toolchain)（⭐1 · 更新于 2026-10-20）· 2026-10-21
+**来源**：[@drahcir_rahl](https://x.com/drahcir_rahl/status/2112786295386693787)（线程 1/，附 150 秒演示视频）· 项目：[rahlquist/hermes-video-toolchain](https://github.com/rahlquist/hermes-video-toolchain)（⭐19 · 更新于 2026-11-11）· 2026-10-21
 
 ### @yuanliuwei（袁六伟｜一人AI公司）：暗黑数据科普视频 Skill——6 步流水线，B站百万播放款可复刻
 
@@ -246,7 +246,7 @@
 
 **怎么用它搞钱**：保险/理财知识科普获客 / 数据可视化短视频代做。
 
-**来源**：[@yuanliuwei](https://x.com/yuanliuwei/status/2112795034235834677) · 文章：[爆火的暗黑数据科普视频，Workbuddy/codex 轻松复刻](https://x.com/i/article/2112793728196694016) · 项目：[sixwei2025/dark-infographic-video-skill](https://github.com/sixwei2025/dark-infographic-video-skill)（⭐0 · MIT · 更新于 2026-10-21）· 2026-10-21
+**来源**：[@yuanliuwei](https://x.com/yuanliuwei/status/2112795034235834677) · 文章：[爆火的暗黑数据科普视频，Workbuddy/codex 轻松复刻](https://x.com/i/article/2112793728196694016) · 项目：[sixwei2025/dark-infographic-video-skill](https://github.com/sixwei2025/dark-infographic-video-skill)（⭐2 · MIT · 更新于 2026-11-15）· 2026-10-21
 
 ### @yuanliuwei：全网爆火的 Vibe 知识大赏，保姆级复刻教程
 
@@ -259,7 +259,7 @@
 
 **怎么用它搞钱**：知识动画视频代做 / 企业产品介绍片商单。
 
-**来源**：[@yuanliuwei](https://x.com/yuanliuwei/status/2112799690911515041) · 文章：[全网爆火的 Vibe 知识大赏，保姆级教程](https://x.com/i/article/2112791105926279168) · 项目：[Dave-cc/vibe-knowledge-film](https://github.com/Dave-cc/vibe-knowledge-film)（⭐484 · 更新于 2026-10-13）· 2026-10-21
+**来源**：[@yuanliuwei](https://x.com/yuanliuwei/status/2112799690911515041) · 文章：[全网爆火的 Vibe 知识大赏，保姆级教程](https://x.com/i/article/2112791105926279168) · 项目：[HeyChengC/vibe-knowledge-film](https://github.com/HeyChengC/vibe-knowledge-film)（⭐1345 · 更新于 2026-11-16）· 2026-10-21
 
 ### @yuanliuwei：用 Grok Bot 打造了一个短视频工作室，0 成员
 
@@ -286,7 +286,7 @@
 
 **怎么用它搞钱**：心理科普号矩阵 / 心理机构内容代运营（短视频是服务平台入口）。
 
-**来源**：[@yuanliuwei](https://x.com/yuanliuwei/status/2112793414618038389) · 文章：[爆火的心理科普视频，Workbuddy/codex 轻松复刻](https://x.com/i/article/2112790294038994944) · 项目：[sixwei2025/psych-kepu-video-skill](https://github.com/sixwei2025/psych-kepu-video-skill)（⭐0 · MIT · 更新于 2026-10-21）· 2026-10-21
+**来源**：[@yuanliuwei](https://x.com/yuanliuwei/status/2112793414618038389) · 文章：[爆火的心理科普视频，Workbuddy/codex 轻松复刻](https://x.com/i/article/2112790294038994944) · 项目：[sixwei2025/psych-kepu-video-skill](https://github.com/sixwei2025/psych-kepu-video-skill)（⭐1 · MIT · 更新于 2026-11-15）· 2026-10-21
 
 ### @justloveabit（loveabit）：一句话让 Coding Agent 给你做 30 秒商业级产品宣传片
 
@@ -299,7 +299,7 @@
 
 **怎么用它搞钱**：产品发布片代做 / 独立开发者宣发服务。
 
-**来源**：[@justloveabit](https://x.com/justloveabit/status/2112743359827902807)（附 GIF 演示）· 项目：[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)（⭐1194 · MIT · 更新于 2026-10-19）· 2026-10-21
+**来源**：[@justloveabit](https://x.com/justloveabit/status/2112743359827902807)（附 GIF 演示）· 项目：[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)（⭐2743 · MIT · 更新于 2026-11-16）· 2026-10-21
 
 ### @xiaohu（小互）：XiaoHu AI 日报的视频版 Demo——Claude Code 全流程自动跑
 
@@ -380,7 +380,7 @@
 
 **怎么用它搞钱**：按这份实测给客户搭管线做代建 / skill 选型咨询。
 
-**来源**：[@GoSailGlobal](https://x.com/GoSailGlobal/status/2112801857144029440)（附 3:06 演示视频）· 合集：[zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills)（⭐772 · 更新于 2026-10-20）· 2026-10-21
+**来源**：[@GoSailGlobal](https://x.com/GoSailGlobal/status/2112801857144029440)（附 3:06 演示视频）· 合集：[zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills)（⭐2156 · 更新于 2026-11-16）· 2026-10-21
 
 ### @S1MP23503787（Visionary）：本地模型 AI 模特生成全流程——12GB 显存跑通图+视频
 
@@ -408,7 +408,7 @@
 
 **怎么用它搞钱**：搬运矩阵号 / 跨平台分发代运营。
 
-**来源**：[@awe0_io](https://x.com/awe0_io/status/2112872752059420714) · 项目：[fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto)（⭐3936 · GPL-3.0 · 更新于 2026-10-20）· 2026-10-21
+**来源**：[@awe0_io](https://x.com/awe0_io/status/2112872752059420714) · 项目：[fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto)（⭐5011 · GPL-3.0 · 更新于 2026-11-16）· 2026-10-21
 
 ### @linda6248130564（财经老王）：17 岁少年的 AI 短视频矩阵流水线
 
@@ -551,7 +551,7 @@
 
 **怎么用它搞钱**：漫剧/短剧批量代做 / 短剧生产工作台代建。
 
-**来源**：[@Manorgw](https://x.com/Manorgw/status/2117374692587717044) · 项目：[gzxx-2025/aid-studio](https://github.com/gzxx-2025/aid-studio)（⭐1275 · MIT · 更新于 2026-11-03）· 2026-11-03
+**来源**：[@Manorgw](https://x.com/Manorgw/status/2117374692587717044) · 项目：[shijue-aid/aid-studio](https://github.com/shijue-aid/aid-studio)（⭐1434 · MIT · 更新于 2026-11-15）· 2026-11-03
 
 ### @XunDavid80270：Flow 免费档 50 积分——先做对 6 张关键帧，2 天额度出 1 条 50 秒短片
 
@@ -590,7 +590,7 @@
 
 **怎么用它搞钱**：批量短视频代运营 / 矩阵号产能服务。
 
-**来源**：[@Manorgw](https://x.com/Manorgw/status/2117112968143921433) · 项目：[YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory)（⭐6031 · AGPL-3.0 · 更新于 2026-11-03）· 2026-11-02
+**来源**：[@Manorgw](https://x.com/Manorgw/status/2117112968143921433) · 项目：[YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory)（⭐6153 · AGPL-3.0 · 更新于 2026-11-15）· 2026-11-02
 
 ### @zdt0403（PigcW）：faster-whisper 自动字幕实测——先加词表再换模型，附一条命令出 SRT 和成片
 
@@ -642,7 +642,7 @@
 
 **怎么用它搞钱**：爆款结构拆解服务 / 多版本批量改编代运营。
 
-**来源**：[@Manorgw](https://x.com/Manorgw/status/2115835551018623252) · 项目：[hypit-ai/hypit](https://github.com/hypit-ai/hypit)（⭐27564 · LICENSE 未识别 · 更新于 2026-11-03）· 2026-10-29
+**来源**：[@Manorgw](https://x.com/Manorgw/status/2115835551018623252) · 项目：[hypit-ai/hypit](https://github.com/hypit-ai/hypit)（⭐30013 · LICENSE 未识别 · 更新于 2026-11-16）· 2026-10-29
 
 ### @XunDavid80270：Higgsfield 包周卡算账——129 美元 Ultra，7 天跑满 14 条 20 秒成片才回本
 
@@ -681,7 +681,7 @@
 
 **怎么用它搞钱**：网文改编短剧代做 / 出海微短剧剧本转译服务。
 
-**来源**：[@egguy7](https://x.com/egguy7/status/2117503526389882982) · 项目：[egguy886/write-screenplay-skill](https://github.com/egguy886/write-screenplay-skill)（⭐8 · MIT · 更新于 2026-10-31）· 2026-11-03
+**来源**：[@egguy7](https://x.com/egguy7/status/2117503526389882982) · 项目：[egguy886/write-screenplay-skill](https://github.com/egguy886/write-screenplay-skill)（⭐12 · MIT · 更新于 2026-11-14）· 2026-11-03
 
 ### @XunDavid80270：散装 AI 素材拼片——先问 5 个问题，再按真实时长写旁白、排剪辑表、出字幕和拼接命令
 
@@ -733,7 +733,7 @@
 
 **怎么用它搞钱**：本地低成本出片代做 / H3 工作流搭建服务。
 
-**来源**：[@PixelAigc](https://x.com/PixelAigc/status/2117537769912414535) · 项目：[pixelaigc/ComfyUI-MiniMax-H3-Workflow](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Workflow)（⭐130 · 暂无 LICENSE · 更新于 2026-09-10）· 2026-11-03
+**来源**：[@PixelAigc](https://x.com/PixelAigc/status/2117537769912414535) · 项目：[pixelaigc/ComfyUI-MiniMax-H3-Workflow](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Workflow)（⭐474 · 暂无 LICENSE · 更新于 2026-11-16）· 2026-11-03
 
 ### @superfang119（方知微）：Infinite Creation——小说一键转长视频的本地 Agent 自动化流水线
 
@@ -746,7 +746,7 @@
 
 **怎么用它搞钱**：小说推文 / 漫剧批量代做 / 本地自动化产线搭建服务。
 
-**来源**：[@superfang119](https://x.com/superfang119/status/2117543981446058211) · 项目：[SwotAtmk/infinite-creation](https://github.com/SwotAtmk/infinite-creation)（⭐189 · MIT · 更新于 2026-11-03）· 2026-11-03
+**来源**：[@superfang119](https://x.com/superfang119/status/2117543981446058211) · 项目：[SwotAtmk/infinite-creation](https://github.com/SwotAtmk/infinite-creation)（⭐347 · MIT · 更新于 2026-11-16）· 2026-11-03
 
 ### @superfang119（方知微）：知微学导演 12——长视频镜头连续性：故事状态表 + Motion Context OFF/ON 对照选片
 
@@ -759,7 +759,7 @@
 
 **怎么用它搞钱**：长视频连续性品控服务 / 漫剧精修代做。
 
-**来源**：[@superfang119](https://x.com/superfang119/status/2117586539161264280) · 文章：[知微学导演12｜镜头都拍完了，故事为什么接不上？](https://x.com/i/article/2117554606825971713) · 工具：[NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context)（⭐1339 · GPL-3.0）· 2026-11-03（注：浏览器报告所称"ON 更优"与原文不符，实际两窗一 OFF 一 ON 且均保留偏差，本条以文章原文为准）
+**来源**：[@superfang119](https://x.com/superfang119/status/2117586539161264280) · 文章：[知微学导演12｜镜头都拍完了，故事为什么接不上？](https://x.com/i/article/2117554606825971713) · 工具：[NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context)（⭐1370 · GPL-3.0 · 更新于 2026-11-14）· 2026-11-03（注：浏览器报告所称"ON 更优"与原文不符，实际两窗一 OFF 一 ON 且均保留偏差，本条以文章原文为准）
 
 ### @jarvis11x（Jarvis｜AI 商业实验室）：Muse 生成视频工具实测——一句话脚本拆 N 个 10 秒镜头、批量抽卡 + 自动选片拼长片
 
@@ -813,6 +813,413 @@
 
 **来源**：[@AGUI72678775](https://x.com/AGUI72678775/status/2117601896911495482) · 文章：[Google Flow (Veo 3.1) 短视频实战复盘：A6 暖金暗影风西安旅游全流程](https://x.com/i/article/2117594193136918528) · 2026-11-03
 
+### @zdt0403（PigcW）：成片之后分发才是流水线最容易被忽略的一环——social-auto-upload 本机实测
+
+**核心提炼**
+- 解决什么问题：成片剪完，分发还要逐个平台开后台填标题封面；作者判断：成片已在命令行/Agent 里时，分发该接 CLI + Skill，不是再装一个浏览器扩展。
+- 核心用法（5 步）：1) 环境锁 Python 3.10–3.12（3.13 会被拒绝），uv 装包约 1.3 秒、再装 Chromium；2) 每个主力平台跑一次 login 扫码，cookie 落到 cookies/平台_账号别名.json，当密钥管、不提交、不群传；3) 发布前必跑 check，无 cookie 时 0.3 秒级失败拦住，不会开一堆浏览器窗再报错；4) 按平台分子命令 upload（图文/文章另有入口），标题简介放 YAML/JSON 让 Agent 读配置拼参数；5) 先 2–3 个有粉丝的号低频测，手动成功三次再写定时任务。
+- 什么时候用 / 常见坑：适合成片已在本地脚本或 Agent 里产出、想把分发接进流水线的人；只做人手发布、一周三条的人继续用浏览器扩展更省事；18 个 Skill 文件在仓库里，是否进官方市场文档称还在推进，自己拷进 skill 路径更稳；README 能力表约 17 个平台方向，TikTok 无 sau 子命令、YouTube 定时开发中、知乎定时实验性，别把推文里的"一条命令发全网"写进 SOP；自动化上传可能触发风控，别拿它当违规矩阵加速器。
+
+**适用场景**：日更/周更口播、知识博主，想把"剪完→分发"接成一条线的人。
+
+**怎么用它搞钱**：矩阵号分发代运营 / 内容生产流水线搭建服务。
+
+**来源**：[@zdt0403](https://x.com/zdt0403/status/2118230607943602535) · 文章：[social-auto-upload 本机实测：装包约 1.3 秒，没 cookie 0.3 秒拦住上传（附 Skill）](https://x.com/i/article/2118230544584421376) · 项目：[dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)（⭐16568 · MIT · 更新于 2026-11-15）· 2026-11-16（文章全文经 fxtwitter API 直读核验；浏览器报告所称"50MB 上抖音约 40 秒、7/8 成功、先发 B 站"未在文章正文内出现，不采用）
+
+### @somi_ai：讲解视频流水线最值得偷的一点——渲染完用 OCR 把自己的视频读回来核对事实
+
+**核心提炼**
+- 解决什么问题：代码画出来的讲解视频，屏上文字可能写错事实、标题卡停留不够观众读完，人工逐帧审片慢；这个 Claude Code skill 把自检写进流水线。
+- 核心用法（3 步）：1) 一个选题进去，出带旁白的讲解视频，44 种艺术风格、全部用代码绘制；2) 渲染后用 OCR 把自己的视频读回来，逐一核对屏上文字与先调研好的事实表；3) 评论区补充（浏览器侧读取、未经 API 核验）：还会按评分标准给自己的产出打分、检查每张标题卡的阅读时间是否够观众读完。
+- 什么时候用 / 常见坑：适合知识科普、产品原理解释类视频；自检只能发现问题，修还得回关键帧重来；库内已有同格式另一实现 vibe-knowledge-film（HeyChengC，1345★），本条是另一仓库 andyhuo520/vibe-knowledge，OCR 自检闭环为新增方法。
+
+**适用场景**：知识博主、做代码绘制讲解视频的人。
+
+**怎么用它搞钱**：知识动画代做 / 科普视频批量生产。
+
+**来源**：[@somi_ai](https://x.com/somi_ai/status/2118237576624853090) · 项目：[andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge)（⭐673 · MIT · 更新于 2026-11-16）· 2026-11-16
+
+### @Manorgw：AI 短剧开局先收好三个 GitHub 项目——魔因漫创 Moyin Creator + oowaoo（火宝短剧已在库内）
+
+**核心提炼**
+- 解决什么问题：AI 短剧想赶早下场，缺一个从剧本到成片能批量跑的工具；作者点名三个开源项目按场景分。
+- 核心用法（3 项）：1) 魔因漫创 Moyin Creator：桌面软件，跟 Seedance 2.0 配合紧，剧本→角色→场景→导演→S 版、从剧本到成片一条龙批量出活，多镜头、要角色连贯的盯这个，4855★ AGPL-3.0 v0.2.9；2) oowaoo AI 影视 Studio：偏工业流水线，网文小说直接转视频，角色、场景、剧情、分镜、配音自己拆出来，搞小说改编、铺短剧矩阵的瞄这个，14865★，LICENSE 未识别；3) huobao-drama：扔一句话一个主题攒出整部短剧，改写、出图、配音、合成、字幕全兜住，库内已有条目（17526★），不重复计入。
+- 什么时候用 / 常见坑：适合想批量出短剧、铺矩阵的人；Moyin 与 oowaoo 均为 AGPL/未识别授权，商用前先看清授权；oowaoo 仓库名实为 waooAI/waoowaoo，帖内简称 oowaoo。
+
+**适用场景**：短剧团队、小说推文/漫剧矩阵号。
+
+**怎么用它搞钱**：短剧批量生产 / 小说改编矩阵代运营。
+
+**来源**：[@Manorgw](https://x.com/Manorgw/status/2118647831732924622) · 项目：[MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator)（⭐4855 · AGPL-3.0 · 更新于 2026-11-15）、[waooAI/waoowaoo](https://github.com/waooAI/waoowaoo)（⭐14865 · LICENSE 未识别 · 更新于 2026-11-15）· 2026-11-16（浏览器报告所称"Sume Director Studio"与原文不符，原文第三项为已在库内的 huobao-drama，本条以 API 原文为准）
+
+### @KOF97AI：MiniMax H3 导演级工作流搬进 ComfyUI——文生/图生/首尾帧/参考视频/视频转视频一张画布跑通
+
+**核心提炼**
+- 解决什么问题：网页端反复倒腾参数、镜头多了管不过来；节点把文生视频、图生视频、首尾帧过渡、角色视频换人等核心控制能力封装起来，不同镜头生成与控制逻辑串在同一个画布里自动化跑通。
+- 核心用法（3 步）：1) 拉取节点挂进自己的生片管线；2) 5 份工作流按需挑：T2V 文生、FL2V 首尾帧（只放首帧即作 I2V）、I2V 图生、R2V 参考素材生视频、V2V 按源视频时间轴逐段编辑/RV2V 源视频加参考图或音频（适合换人测试）；3) 批量出片、镜头连贯、多人多场景项目直接用。
+- 什么时候用 / 常见坑：适合 ComfyUI 用户、批量出片与多镜头项目；帖内链接实为 huangserva/ComfyUI_MiniMaxH3_Director（1543★ Apache-2.0，自述为上游 AIMixer/ComfyUI_MiniMaxH3_Director 2817★ 的副本），浏览器报告所写"ComfyUI-MiniMax-H3-Workflow"仓库不存在（404），本条以 API 原文链接为准；需 ComfyUI 0.30+、MiniMaxH3Director 节点。
+
+**适用场景**：ComfyUI 用户、短剧/多镜头批量出片。
+
+**怎么用它搞钱**：H3 工作流搭建服务 / 批量出片代做。
+
+**来源**：[@KOF97AI](https://x.com/KOF97AI/status/2118664112120991754) · 项目：[huangserva/ComfyUI_MiniMaxH3_Director](https://github.com/huangserva/ComfyUI_MiniMaxH3_Director)（⭐1543 · Apache-2.0 · 更新于 2026-11-16）· 2026-11-16
+
+### @snakeace：AI 视频流水线最贵的一步不是生成，是错误传到了下一层
+
+**核心提炼**
+- 解决什么问题：前面环节的小错一路带到生成、越往后改越贵；作者给了一条免费全流程 SOP 的三条铁律（同类付费课据转述卖到近 20 万量级）。
+- 核心用法（3 条）：1) 文字阶段能发现的错，别留到出图；2) 图上能发现的错，别留到出视频；3) 故事定稿后另开一个 agent 做盲审，别让同一个会话既写又批；花钱的步骤开跑之前，先把检查清单跑完一遍。
+- 什么时候用 / 常见坑：适合任何多环节流水线，尤其外包/批量出片前；盲审必须另开会话，同一会话既写又批等于没审。
+
+**适用场景**：所有多环节 AI 视频流水线，短剧/长视频/批量出片。
+
+**怎么用它搞钱**：流水线品控方法论咨询 / 代运营质检环节。
+
+**来源**：[@snakeace](https://x.com/snakeace/status/2118996840033001657) · 2026-11-16（正文经 fxtwitter API 直读核验；浏览器报告所写 Seedance/Fable 一句未在原文内出现，不采用）
+
+### @l1483705（开坦克的贝塔）：从零设计 AI 短剧流水线，先分成四层
+
+**核心提炼**
+- 解决什么问题：从零搭短剧流水线不知从哪下手、流程越跑越乱；作者先把整条线分成四层，再谈自动化。
+- 核心用法（4 层 + 2 条纪律）：1) 内容层：剧本、人物、分镜、对白；2) 生成层：图片、视频、语音、字幕；3) 管理层：文件命名、任务状态、错误记录；4) 交付层：质量检查、剪辑、导出；n8n 或 Coze 负责其中适合自动化的数据传递与任务编排；不要把所有任务塞进一个巨大的工作流；模块越清楚，出错时越容易找到原因。
+- 什么时候用 / 常见坑：适合从零搭短剧流水线、已有流程越跑越乱的人；先分层再自动化，别一上来就写巨型工作流。
+
+**适用场景**：短剧团队、一人公司搭生产管线。
+
+**怎么用它搞钱**：短剧流水线搭建咨询 / 自动化代运营。
+
+**来源**：[@l1483705](https://x.com/l1483705/status/2120342498077778168) · 2026-11-16
+
+### @PixelAigc（PixelAIGC）：单人 AI 流水线做双语抒情 MV——豆包写词｜Suno 作曲｜H3 成片｜Image 2.5 封面｜剪映剪辑
+
+**核心提炼**
+- 解决什么问题：单人做音乐 MV 全流程怎么跑通、双语分发数据差在哪；作者以《无借口的错》中英文双版 MV 复盘整条链路。
+- 核心用法（5 步）：1) 词曲：豆包按热点舆论蓝本、当事人视角写词、定华语抒情流行曲风，Suno 生成旋律与人声；2) 视频：按歌词断句裁成 10 秒以内 mp3，角色图 + 音频交本地 Minimax H3 参考生视频，按歌曲节奏情绪规划镜头运镜、实现真人对口型与情感表达；3) 封面：Image 2.5 生成，色调构图贴合歌曲内核；4) 后期：剪映做字幕对齐、音频调校、转场与节奏微调；5) 分发：先发中文版多平台，8 小时后起量再做英文版（豆包翻译改写歌词 + Suno Remix 同曲调英文歌）。
+- 数据反差（作者自述）：视频号英文版 43 万多、中文版 12 万多；X 中文版 40 万、英文版 2 万；中文版 10 万播放后被限流、93 条疑似搬运被限流；全网自发搬运超 100 个；结论：语种、平台生态、受众习惯会直接改写传播结果，别一套素材直接多平台分发。
+- 什么时候用 / 常见坑：适合音乐 MV、热点改编、双语分发；风险：视频用了真人照片作参考图，涉肖像权授权问题，平台限流已有先例；泛流量作品可能影响专业账号定位；浏览器报告所称"H3 参数分辨率 0.6/步数 6/Turbo LoRA、90% H3 + 10% Seedance"未在文章正文内出现，不采用。
+
+**适用场景**：音乐 MV、热点歌曲改编、双语账号。
+
+**怎么用它搞钱**：音乐 MV 代做 / 热点改编批量生产。
+
+**来源**：[@PixelAigc](https://x.com/PixelAigc/status/2120389249338146886) · 2026-11-16（文章全文经 fxtwitter API 直读核验）
+
+### @swordBluesy（剑的 AI 实验室）：n8n 视频工作流烧钱不在生成，在报价/重试/等待三处——三道防线
+
+**核心提炼**
+- 解决什么问题：示范跑一次没问题、量产就翻车：事后才知道价格、重试重复扣费、视频要等几分钟、单一请求等不到；解法是全程只用内置节点搭三道防线。
+- 核心用法（4 步）：1) 先报价：花钱前先问价，报价免费、什么都没创建也不扣费，超预算就停；同一流程只换模型，5 秒竖版一个模型报 1 美元出头、另一个只要 0.35 美元，价格会变、每次改参数都重报价；2) 重试不重扣：创建请求带防重扣钥匙和写死的最高价，同一份内容重试只回原任务、不重复扣费，超最高价就失败；千万别开自动重试，创建超时、对方其实已接单，重试又生一支、扣两次钱；3) 慢慢等：视频要等一到几分钟，别一个请求从头等到尾，每 20 秒查一次状态、成功才下载，循环设 20 分钟上限防死循环；失败的任务不收费，下载链接会过期、拿到就存；4) 等视频两路：本地开发走轮询（简单、不用公开网址），量大走回呼（省运行次数，但要公开网址、收到后自己再查一次状态）；先拿免费模型零元把整条流程跑通，再换付费模型。
+- 什么时候用 / 常见坑：适合 n8n 批量生视频、量产前控成本的人；收藏清单：密钥凭证集中管、花钱前先报价、创建带防重扣钥匙与上限、先免费跑通再换付费。
+
+**适用场景**：n8n 批量视频、API 视频生成量产。
+
+**怎么用它搞钱**：n8n 视频工作流搭建 / 批量出片成本优化服务。
+
+**来源**：[@swordBluesy](https://x.com/swordBluesy/status/2120479507433882049) · 2026-11-16（主帖正文经 fxtwitter API 直读核验；自回复中的四节点实测成本表为浏览器侧读取、未逐条核验，仅供参考——主帖已印证"改一个分辨率就多付 2.5 倍"）
+
+### @awe0_io：用过最值的 8 个视频 AI——按环节分工的选型清单
+
+**核心提炼**
+- 解决什么问题：视频 AI 太多、不知道按环节怎么选；作者按自己用过最值的 8 个排了一张选型清单。
+- 核心用法（8 项）：1) 可灵：赛博剧组，文字丢进去、分镜运镜全配好；2) 即梦：短视频流水线，字节生态一键打通；3) Google Veo：音画一体，对白音效一起生成、后期配音全省；4) Runway：赛博后期，抠像擦除补帧；5) HeyGen：数字人代打，175 种语言带唇形同步、不想露脸全交它；6) 剪映：素材救火队长，配音字幕自动卡点；7) 海螺：量产担当，成本最低、提示词还原度高；8) Mareel：40 多个模型一个工作台、一套积分通刷，同一创意换模型对比抽卡、谁好留谁（作者称还在摸索）。
+- 什么时候用 / 常见坑：适合搭自己的视频 AI 工具栈、按环节选模型的人；清单为作者个人使用口径，未独立核验；浏览器报告所列 Fable 5.2/Sora 2/Runway Aleph/Seedance 1.0 与原文不符，本条以 API 原文为准。
+
+**适用场景**：想搭视频 AI 工具栈的个人创作者、小团队。
+
+**怎么用它搞钱**：工具选型咨询 / 按环节接单（数字人/后期/量产）。
+
+**来源**：[@awe0_io](https://x.com/awe0_io/status/2120723820495654962) · 2026-11-16
+
+### @macdog：每天一条一分钟灵修短视频，全自动 2.5 小时出 30 条——README-first 是整条流水线的钥匙
+
+**核心提炼**
+- 解决什么问题：母亲留下的灵修文字，每天一条一分钟视频，123 条从 2026-10-01 到 2027-01-31 全部上传或排期；人只负责审片，机器跑全流程。
+- 核心用法（5 步）：1) 文案：Claude Code 把当日文稿转成配置文件（日期、经文出处、屏上文字、旁白句、结尾反思问题），疑似错字列成表请人确认、绝不擅自改原文；2) 配音：母亲旧录音作参考（2–3 段各约 15 秒就够），本机 Qwen3-TTS 克隆声音，每句生成 3 遍、Whisper（Groq 免费档，不够切本机 mlx-whisper）逐词核对读音、取最好的一遍拼接；3) 画面：VideoExpress.ai 生成背景（终身约 150 美元、生成不限量；弱于 Seedance/Kling 但够用），每月开场植物按圣经意象轮换；4) 合成：AI 驱动开源编辑器 Concat 排开场、背景、经文卡、旁白、音乐，卡片跟旁白时间走、直接导出；5) 发布：YouTube API 上传、每天 6 点定时、进当月播放列表，音频另混后上 Spotify/Apple Podcasts。
+- 最值钱的一点：README-first——节目文件夹里一份 README 写清长什么样、每天哪几步、每步留下哪个文件；每天只对 Claude Code 说一句话"Follow the README and do all of December"，跑完一批把新问题与解法写回 README；15–20 分钟可开一个新节目（3–4 条/小时），前提是脚本已标清哪些读出来、哪些只上屏、经文出处。
+- 什么时候用 / 常见坑：适合日更/周更固定栏目、模板化量产；成本：Claude Code 订阅 + VideoExpress 终身约 150 美元 + TalkingPhotos 终身约 80 美元（仅需要真人主持时）+ 其余免费；克隆声音务必先拿到授权，上传勾选"altered or synthetic content"；AI 能碰本机文件与已登录账号，给多少权限要自己掂量；浏览器报告所称"30 条低于 3 美元、27 条一次过、4:5 竖版海报、15 秒免费试用视频"均未在博客原文内出现，不采用。
+
+**适用场景**：日更栏目、播客/灵修/知识号，想把固定栏目彻底自动化的人。
+
+**怎么用它搞钱**：日更栏目代运营 / README-first 流水线搭建服务。
+
+**来源**：[@macdog](https://x.com/macdog/status/2120827511231946995) · 博客：[How a daily one-minute devotional video gets made, automatically](https://jacobmei.com/blog/2026/1112-18kbgo/) · 2026-11-16（博客全文已读核验；含 VideoExpress/TalkingPhotos 推广链接，成本数字为作者自述）
+
+### @DylanGrabowski：录一遍竖屏、说声"cut that"继续录，Agent 交回成片 Short——带递归学习的口播流水线
+
+**核心提炼**
+- 解决什么问题：口播创作者录制磕巴、剪辑耗时；作者自建的 AI 视频流水线把一次杂乱拍摄变成成品 Short。
+- 核心用法（5 步）：1) 竖屏录一遍，录制中出错就说"cut that"继续录；2) 把 5–7 分钟原片交给 Agent；3) 拿回剪好的 9:16 成片、封面图、发帖文案建议；4) 渲染前先批剪辑方案；人名听错了就纠正、永久记住供以后剪辑用；5) 钩子标题来自一份 SKILL 文件（爬社交平台找表现最好的 Shorts 训练出来）；最值钱的是递归学习：每次改片要求都记下来，但只有作者批准后才变成规则；第一条测试片内部跑了 659 次才定稿。
+- 什么时候用 / 常见坑：适合口播、访谈、知识类 Shorts；浏览器报告所称"自动切语气词/无声段、自动生成字幕和标题"未在原文内出现，不采用；下一步是接 YouTube Shorts 自动发布。
+
+**适用场景**：口播博主、访谈/知识类 Shorts 创作者。
+
+**怎么用它搞钱**：口播 Shorts 批量代做 / 剪辑流水线搭建服务。
+
+**来源**：[@DylanGrabowski](https://x.com/DylanGrabowski/status/2121004611095994571) · 2026-11-16
+
+### @HeLi8866（何笠同学）：20 个仓库组成一个动效工作室——给 Opus 5.2 用的 Agent 视频工具箱
+
+**核心提炼**
+- 解决什么问题：代码做视频缺趁手的动效件；作者把 20 个开源仓库按功能配成一套给 Opus 5.2 用的工具箱。
+- 核心用法（分组）：指引类：Remotion Skills（给 Agent 做视频的指引）；时间线与编排：Anime.js（时间线与交错动画）、Motion（布局过渡）、AnimXYZ（CSS 编排）；物理与变形：React Spring（弹簧物理）、Matter.js（2D 刚体物理）、Flubber（平滑形状变形）、KUTE.js（SVG 补间）、mo.js（爆发与形状特效）、tsParticles（粒子动画）；讲解与数学：Motion Canvas（动画讲解）、Manim（把数学动起来）；播放与交互：Lottie Web（矢量动画播放）、Rive Runtime（可交互状态机）、Inochi2D（2D 木偶动画）；手绘与 3D：OpenToonz（手绘动画）、Synfig（矢量补间）、Blender（绑定与角色动画）、Three.js（会动的 3D 场景）、Godot（游戏动画系统）；流程：想法 → 关键帧 → 运动 → 打磨 → 渲染。
+- 什么时候用 / 常见坑：适合代码驱动做动效视频、科普动画的人；清单为作者选型、未逐个核验仓库状态；浏览器报告所列 Remotion 字体/Lottie/Emoji/Captions/Shapes/Three/Tailwind/GIFs/Rive/Transitions/Lambda/Zoom/Media Parser/HyperFrames/ffmpeg/GSAP 清单与原文完全不符，本条以 API 原文 20 个仓库为准。
+
+**适用场景**：代码动效、科普动画、数据可视化视频。
+
+**怎么用它搞钱**：代码动效视频代做 / 科普动画批量生产。
+
+**来源**：[@HeLi8866](https://x.com/HeLi8866/status/2121293225332011070) · 2026-11-16
+
+### @Chenfacai0（陈发财）：14 个开源项目交给 Opus 5.5，代码做视频不用再雇剪辑/配音/3D 美术
+
+**核心提炼**
+- 解决什么问题：AI 生成的视频总带着"不上档次"的感觉；作者把 14 个开源项目交给 Opus 5.5，旁白配音、字幕生成、三维建模、渲染输出全靠写代码完成，绝大多数免费。
+- 核心用法（分组）：指引与框架：Remotion Skills（官方给 AI Agent 的视频制作指导手册）、Remotion（React 搭视频再渲染，个人与小团队免费、公司大了需授权）、HyperFrames（写 HTML 就出视频、本身就是为 Agent 打造）、ComfyUI（图片与视频生成流水线）；声音：faster-whisper（按旁白音频直接出字幕）、Chatterbox（只给文字就生成旁白）；3D 与动效：Blender（三维建模、骨骼绑定、专业级渲染）、Blender MCP（让 Claude 直接操控 Blender 场景）、GSAP（时间轴掌控 UI 动效与文字动画）、Three.js（浏览器里 GPU 渲染 3D）；检查与素材：Chrome DevTools MCP（Agent 自己看渲染画面、导出前自行修正）、FFmpeg（编码、检查、导出 MP4）、Impeccable（设计收尾打磨、点评与检查）、yt-dlp（网上抓参考片段与音频）。
+- 什么时候用 / 常见坑：适合想用代码做视频、一个 Agent 干掉多个岗位的人；清单为作者选型、未逐个核验；与 @HeLi8866 的 20 仓库清单有重叠（Remotion/Blender/GSAP/FFmpeg/Three.js/HyperFrames），两份清单可对照着装。
+
+**适用场景**：代码做视频、想用 Agent 替代剪辑/配音/3D 岗位的个人与小团队。
+
+**怎么用它搞钱**：代码视频代做 / Agent 视频工作室搭建。
+
+**来源**：[@Chenfacai0](https://x.com/Chenfacai0/status/2121303329737204108) · 2026-11-16
+
+### @KOF97AI：做 AI 短剧不用盲抽盲剪——MiniMaxDirector 把镜头时序和声音全搬上时间线
+
+**核心提炼**
+- 解决什么问题：短剧分镜容易崩脸、盲抽盲剪浪费调用；开源导演工具把镜头画面、运镜轨迹与声音拆成独立三轨道，像非编软件一样按镜头编排。
+- 核心用法（4 步）：1) 三轨道编排：镜头画面、运镜轨迹、声音各自独立，按镜头排远景、特写切换与台词音效节点；2) 绑定角色参考图、音色与动作视频，跨镜头锁死同一套人物特征；3) 排好时间线后自动转译为 MiniMax H3 专属结构化提示词，内置规则校验杜绝无效调用；4) 自带开箱即用的 ComfyUI 工作流与中文视频教程；评论区补充（浏览器侧读取、未经 API 核验）：按台词改一处，只重新生成声音和对应镜头。
+- 什么时候用 / 常见坑：适合 AI 短剧、连续剧情、多镜头项目；仓库 131★ MIT，2026-11-15 更新，偏新，需自己跑通验证。
+
+**适用场景**：AI 短剧、连续剧情创作者。
+
+**怎么用它搞钱**：短剧分镜导演工具搭建 / 短剧代制作。
+
+**来源**：[@KOF97AI](https://x.com/KOF97AI/status/2121516738512843161) · 项目：[imbutus/ComfyUI-MiniMaxDirector](https://github.com/imbutus/ComfyUI-MiniMaxDirector)（⭐131 · MIT · 更新于 2026-11-15）· 2026-11-16
+
+### @beebidao（Fufu日常局）：5 个开源项目串成 Muse 批量做视频的工具链
+
+**核心提炼**
+- 解决什么问题：用 Muse 批量做视频，提示词、自动化、口型、配音字幕、批量成片各缺一环；作者给了一套 5 件套工具链。
+- 核心用法（5 件）：1) Prompt Optimizer（linshenkx/prompt-optimizer）：简单想法丢进去、优化成完整提示词，适合 Muse 生图、视频分镜与空间指令；2) n8n：文案、配音、字幕、素材整理串成一条流水线，适合 Muse 批量做视频、自媒体内容，部分环节需额外对接；3) MuseTalk：中文口型同步，换中文配音后人物口型跟上音频，AI 短剧必备；4) pyVideoTrans：视频翻译、语音合成、字幕处理一套搞定，还能做多语言版本运营海外平台；5) Remotion：代码自动加字幕、转场、片头片尾，批量做系列动画不用每条从头剪。
+- 什么时候用 / 常见坑：适合 Muse 用户批量做视频、自媒体内容；大多免费，但不是 Muse 官方插件，有些要在电脑上部署或走 API/自动化配合；作者最推荐先研究 Prompt Optimizer 和 n8n，一个解决提示词、一个解决重复操作；浏览器报告所称"Claude 生图"与原文不符，原文是 Muse。
+
+**适用场景**：Muse 用户、批量做视频的自媒体创作者。
+
+**怎么用它搞钱**：Muse 批量视频代运营 / 多语言版本分发。
+
+**来源**：[@beebidao](https://x.com/beebidao/status/2121576284656693697) · 项目：[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)、[n8n-io/n8n](https://github.com/n8n-io/n8n)、[TMElyralab/MuseTalk](https://github.com/TMElyralab/MuseTalk)、[wtrg/pyvideotrans](https://github.com/wtrg/pyvideotrans)、[remotion-dev/remotion](https://github.com/remotion-dev/remotion) · 2026-11-16
+
+### @GeekCatX（知识猫）：AI 美女涨粉技术保姆级教程——反推爆款视频，七步复刻同款人物短视频
+
+**核心提炼**
+- 解决什么问题：想复刻"AI 美女"类涨粉账号（样本账号温柚柚 247.3 万粉、3617.1 万赞、157 条作品），不知道从哪下手；作者给了一条七步流程，用自己的 AI 角色练习同类视频的镜头和动作。
+- 核心用法（7 步）：1) 反推视频：用 YouArt Desktop + Fable 5.2，先让 Agent 教你怎么问，拿到一份十项拆解指令（基本信息、内容概述、按时间码分镜、拍摄手法、灯光色彩、场景造型、剪辑、声音、亮点、复刻方案）；2) 复制拆解指令、连同参考视频一起发过去，重点看动作和镜头的关系（什么时候看镜头、抬头前后镜头何时停稳、偏头时肩膀动没动），再追问开头吸引点、动作变化与结尾状态，整理成可直接用的视频提示词；3) 要两份提示词：首帧图提示词（人物外观、服装、姿态、构图、背景、光线，9:16）与视频提示词（动作先后、表情变化、镜头运动、各阶段时长，约 6 秒），并说明参考画面是真正的开头还是镜头停稳后的画面；4) 做角色三视图：同一人物正面、侧面、背面一次定下来（16:9 横版），脸型、发型、身体比例、服装前后结构都能对照检查，角色描述尽量具体；5) 脸部替换：@Image1（已确认的人物场景图）定构图、姿势、视线、发型、服装、背景与光线，@Image2（新角色）只定面部五官与脸型，写清分工、别把白底站姿或另一套服装带进场景；6) 调用 /viral-video-clone Skill：参考视频负责"怎么动"、确认后的人物图负责"长什么样、穿什么、在哪里"，三份素材用途写完整再发送；7) 逐帧抽查：正常速度看一遍，再停在抬头、眨眼、偏头处检查脸型、五官、肩颈衔接、衣服与背景，发现问题用"时间点+现象"反馈，一次只改一个主要问题；最后用 Wink 超分到 1080P/4K。
+- 什么时候用 / 常见坑：适合人物类短视频复刻、想固定角色做系列的人；作者自述：数据以截图为准，原账号制作方式未知，本文用自己的 AI 角色练习；变现上作者称短样片暂无可展示的发布收益记录，卖号不列入操作路线；同日有帖质疑此类宣传的数据水分，数字均为作者自述；浏览器报告所称"YouArt 每天免费 15 张图、Fable 5 秒 80 积分"未在文章正文内出现，不采用。
+
+**适用场景**：人物类短视频、想固定角色做系列的创作者。
+
+**怎么用它搞钱**：人物 IP 短视频代做 / 角色复刻教程服务。
+
+**来源**：[@GeekCatX](https://x.com/GeekCatX/status/2121605011952246834) · 文章：[抖音200W粉丝博主AI美女涨粉技术保姆级教程](https://x.com/i/article/2121592183513890816) · 2026-11-16（文章全文经 fxtwitter API 直读核验）
+
+### @vintcessun（恒星sun）：把 Higgsfield 式创作工具拆成可复用的 ComfyUI 工作流——Freefield 的清单驱动答案
+
+**核心提炼**
+- 解决什么问题：每个视频创作工具都要另写一套界面和执行逻辑；Freefield 的工程答案是把工作流换成清单。
+- 核心用法（4 步）：1) 每个应用只需一份 app.json 清单 + API 工作流；2) 界面、模型下载、显存图与测试都从清单生成；3) 底层经 Comfy SDK 与 API v2 网关连 ComfyUI，可跑在 Modal、也能接自己的 GPU，换应用时释放显存；4) 120 个图像、视频、VFX 与音频应用共享这套描述驱动架构，扩展时不必为每个工具另写一套界面和执行逻辑。
+- 什么时候用 / 常见坑：适合想把多个视频创作工具搭成积木、跑在任意 ComfyUI 上的人；代价是仍需自行准备模型、处理各自许可与显存需求；工具不再锁死在单个产品里。
+
+**适用场景**：想自建视频创作工具箱的开发者、ComfyUI 重度用户。
+
+**怎么用它搞钱**：视频创作工具定制开发 / ComfyUI 工作流打包服务。
+
+**来源**：[@vintcessun](https://x.com/vintcessun/status/2121614450570805255) · 项目：[neuregex/freefield](https://github.com/neuregex/freefield)（⭐1443 · MIT · 更新于 2026-11-16）· 2026-11-16
+
+### @AgentSparko：大家都在用 MiniMax H3，别忘了 LTX 有多强——选模型先看许可证
+
+**核心提炼**
+- 解决什么问题：做自动化视频流水线，模型选错、变现时许可证卡脖子；作者的 Agent 花了约一天，用 LTX 在 Imagination Studio 里搭起自动化视频流水线。
+- 核心用法（3 步）：1) 本地栈（父帖 @SpaceTimeViking，API 已核验）：视频用本地 LTX 2.5、图片用本地 Flux、音乐用云端 Suno，Grok bot 协调 skills 与脚本、执行并交付；2) Agent 约一天搭起 LTX 自动化流水线，配合作者自己写的其他模块；3) 选 LTX 的原因：许可证更宽松，H3 的限制太多，万一以后变现内容更稳妥。
+- 什么时候用 / 常见坑：适合打算变现、想把模型跑在本地的人；许可证判断为作者个人选择，商用前自己再核对两家最新条款；浏览器报告所称"导演式按时间戳修问题、音乐先行、视觉跟随"未在父帖原文内出现，不采用。
+
+**适用场景**：想本地化、计划变现的视频创作者。
+
+**怎么用它搞钱**：本地化视频流水线搭建 / 变现合规的选型咨询。
+
+**来源**：[@AgentSparko](https://x.com/AgentSparko/status/2121674667937104270)（回复 @SpaceTimeViking）· 2026-11-16
+
+### @xiaojiangtt（codecc）：别一次装四个 Skill——先管最容易翻车的人物一致性，再谈批量
+
+**核心提炼**
+- 解决什么问题：做视频流程想固定下来，一次装四个 Skill 不知从哪下手；作者对照几篇帖子与仓库说明，先管最容易翻车的地方。
+- 核心用法（4 步）：1) 先管人物一致性：社区 Skill（masonmosen/muse-video-prompt-skill，提示词优化库已收录）专门管提示词怎么写，按约 10 秒一段拆开生成、再自动抽帧看哪一段漂了；作者自述 Muse 内置视频锁脸并不稳，别指望参考图一定长得一样，抽帧只能把问题找出来、要修还得回关键帧重来；2) 再补前期策划：剧本、分镜、美术方向写清楚后，用偏前期策划的虚拟剧组 Skill（仓库称还在开发中、通用非 Muse 专属）；3) 连续动画短片另有一条从角色设定、关键帧到旁白、最后导出成片的流程，等短片跑通了再看；4) 测试顺序：先在自己账号里试一次能不能生成，再跑通一条短的、确认人物别换脸，然后才考虑批量和自动化；内置视频在部分地区还不一定能用，别一上来就搭流水线。
+- 什么时候用 / 常见坑：适合 Muse 用户、想把流程固定成 Skill 的人；合规提醒：用第三方接口批量出片、或把已登录的 Muse 接到 Claude Code/Codex 里直接调，都不是官方做法，第三方接口作者自己标明了不是 Meta 官方接口，账号风险自己掂量，作者不把它当第一站；浏览器报告所称"Claude Code 调第三方 API 做视频不合规"与原文不符，本条以 API 原文为准；评论区补充（浏览器侧读取）：Agent 做视频的瓶颈是审片，生成-审片-返工的固定流程才是核心，10 条里真正能用的只有 1–2 条。
+
+**适用场景**：Muse 用户、想稳扎稳打搭视频流水线的新手。
+
+**怎么用它搞钱**：Muse 视频流程咨询 / 人物一致性品控服务。
+
+**来源**：[@xiaojiangtt](https://x.com/xiaojiangtt/status/2121767647024951385) · 项目：[masonmosen/muse-video-prompt-skill](https://github.com/masonmosen/muse-video-prompt-skill)（提示词优化库已收录）· 2026-11-16
+
+### @GitTrend0x：mileson 的中文视频全流水线——一条命令从选题到成片，148 个 HTML/GSAP 特效按字幕时间戳排
+
+**核心提炼**
+- 解决什么问题：中文口播视频制作太麻烦；这个 Skill 一条命令搞定选题、调研、口播稿、分镜，再到转写清洗口水词和长停顿、按字幕时间戳排 148 个 HTML/GSAP 特效，最后出成片、字幕与发布文案。
+- 核心用法（3 步）：1) 一条命令跑全流程：选题→调研→口播稿→分镜→转写清洗→特效→成片字幕→发布文案；2) 阶段门禁：每个阶段产出物都要经过确认才能进入下一阶段；3) 自动模式不替你对外发布。
+- 什么时候用 / 常见坑：适合中文口播、知识讲解视频；帖内称 77★，GitHub API 当日实测 86★ MIT、2026-11-15 更新；同帖其余 4 个 Skill（立绘拆层、反平庸创意、形式化验证、2D 骨骼动画）非视频流水线，不收。
+
+**适用场景**：中文口播、知识讲解视频创作者。
+
+**怎么用它搞钱**：中文口播视频批量代做 / 口播 Skill 落地服务。
+
+**来源**：[@GitTrend0x](https://x.com/GitTrend0x/status/2121928732235460756) · 项目：[mileson/chaojifeng-video-content-creator](https://github.com/mileson/chaojifeng-video-content-creator)（⭐86 · MIT · 更新于 2026-11-15）· 2026-11-16
+
+### @daodao166888（刀刀）：不露脸动画讲极限生存/人类冷知识——先找"换成我该怎么办"的问题，再谈复刻
+
+**核心提炼**
+- 解决什么问题：AI 让视频好做了，拉开差距的还是选题和故事；作者拆了两个对照样本频道，给出一套可照做的复刻流程。
+- 核心用法（3 步 + 1 条公式）：1) 找题：打开 YouTube 搜索，找近 30 天还在涨、标题一眼能看懂、普通人立刻能代入的问题（"如果雨一直下、整座城市被淹，我能活多久？""没有手机网络，古人到底靠什么找乐子？"）；2) 写对照样本笔记：频道名、条数、订阅、单条播放、被困场景（冷知识版再加选题、标题、封面、时长、播放量，爆款和普通作品放一起看差别）；3) 先测最短：用手头现成的流程先出一条最短能测的片，冷知识版先磨好封面和前 30 秒；公式：极限生存 + 心理悬疑 + 简洁动画，缺水、断粮、水位上涨推动故事，希望的灯光慢慢变成危险信号；同一角色、相似画风。
+- 数据（作者自述）：极限生存频道 9 条视频涨粉 3100，"连续下雨一年"发布约一周播放破 55 万，同频道其他视频仅几千到几万播放；人类冷知识频道 36 条涨粉 1.21 万，"古代人类如何获得快乐"播放破 555 万，但该频道第二名仅约 3.7 万——值得拆的是爆款怎么跑出来，不能默认照着画风做每条都能火；全套提示词模板在配图中，可直接复制到 ChatGPT、Claude 等工具中使用。
+- 什么时候用 / 常见坑：适合不露脸动画、知识/生存题材频道；选题能不能让人立刻代入，差别很大；模板在图片里，正文未展开。
+
+**适用场景**：不露脸动画频道、知识/生存题材创作者。
+
+**怎么用它搞钱**：动画频道复刻代运营 / 选题拆解咨询。
+
+**来源**：[@daodao166888](https://x.com/daodao166888/status/2121979107584131309) · 另见同作者人类冷知识拆解帖：[@daodao166888](https://x.com/daodao166888/status/2121828605206688173) · 2026-11-16
+
+### @shengtang135754（麦麦提）：Antigravity + Colab G4 预装 MiniMax H3，Agent 当总控铺好管线就能批量出视频
+
+**核心提炼**
+- 解决什么问题：手绘公益视频一次成片零返工之后，怎么把它变成可重复的流水线；作者的答案不是更复杂的提示词，是先把制作流程搭起来。
+- 核心用法（3 步）：1) Antigravity + Colab 作底座；2) Agent 作为总控制，调用 Colab 里的 G4 GPU；3) G4 里提前装好 MiniMax H3 视频生成模型，管线铺好后，后面就可以流水线出视频。
+- 什么时候用 / 常见坑：适合已有一次成片验证、想把它固化成流水线的人；帖子本身是回复帖、只有流程骨架，没有各环节的具体参数，照做前需自己补齐；父帖的手绘视频细节未在本条核验。
+
+**适用场景**：已有爆款/成片验证、想固化成流水线的人。
+
+**怎么用它搞钱**：成片验证后的流水线固化服务。
+
+**来源**：[@shengtang135754](https://x.com/shengtang135754/status/2122002140445233270)（回复 @petergyang）· 2026-11-16
+
+### @Manorgw / @xoyif63862452：OpenMontage——把整条制片流水线塞进 coding agent，一句话出片不是口号是 12 条流水线
+
+**核心提炼**
+- 解决什么问题：做一条短视频要脚本、配音、画面、字幕、渲染各找一套工具、来回对接；OpenMontage 让 Claude Code、Cursor、Codex 按真实制片流程干活，选题、脚本、素材、剪辑、成片一条龙。
+- 核心用法（5 步）：1) 装好仓库，用自然语言描述需求，它自己选 pipeline 往下跑；2) 12 条完整制片流水线（解说、预告、纪录片拼贴等），100+ 生产工具（生成、配音、混音、字幕、增强），700+ Agent Skill 与制片知识文件；3) 两套合成引擎 Remotion / HyperFrames；Backlot 看板实时看生产进度与花费；4) 零 API Key 也能用开源素材 + Piper TTS 出片，可接 Veo、Kling、ElevenLabs 等付费能力；5) 还能反向拆爆款：丢一条爆款视频进去，拆出脚本节奏、镜头关键帧与风格，转头给 2–3 个不同思路的方案。
+- 案例与成本（作者口径）：60 秒皮克斯风动画短片（剧情、运镜、钢琴 BGM、动态字幕全 AI 生成）总花费 1.33 美元；脑机接口产品宣传片不到 1 美元；电影预告片配乐氛围拉满；0 成本能跑通整套流程，花一两刀挂高级模型画质再提一档。
+- 什么时候用 / 常见坑：适合短视频、教程片、品牌预告；真正值钱的是"制片方法论"被写成了可执行的 skill，而不只是又一个文生视频按钮；AGPL-3.0，商用限制先看清（评论区提醒）；两帖链接的 calesthio/OpenMontage 实为 OpenMontageInc/OpenMontage（80726★，2026-11-16 实测），星数口径两帖分别为约 7.8 万与 6.5w+，以 API 实测为准；库内 10-21 的 7 套选型地图条目已有一次盘点提及，本条为独立成篇的实操与成本数据。
+
+**适用场景**：短视频、教程片、品牌预告创作者与小团队。
+
+**怎么用它搞钱**：品牌预告/教程片批量代做 / 制片流水线搭建服务。
+
+**来源**：[@Manorgw](https://x.com/Manorgw/status/2122024078408400922) · [@xoyif63862452](https://x.com/xoyif63862452/status/2119012717516206216) · 项目：[OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage)（⭐80726 · AGPL-3.0 · 更新于 2026-11-16）· 2026-11-16
+
+### @don_tech1（晨空）：ffmpeg-skill——42 款 FFmpeg 工具打包成 Coding Agent 专属本地视频编辑器
+
+**核心提炼**
+- 解决什么问题：传统 AI 写 FFmpeg 命令全靠猜：盲目瞎重编码、搞砸帧率与容器兼容，跑完还懒得打开文件检查结果；ffmpeg-skill 把 42 个工具按机器可读契约 + MCP 组织起来。
+- 核心用法（4 步）：1) 一行命令安装：npx ffmpeg-skill，支持 Claude Code、Cursor、Codex 等所有支持 Agent Skill / MCP 的客户端；2) 一键环境检查：npx ffmpeg-skill doctor；3) 流水线闭环：探测（probe）→ 损失最小化剪辑 → 自动校验（check）→ 验视看版（look）；4) 一句话人话，Agent 自己挑最合适的工具组合（拼接、混音、画中画、水印、变速、裁剪、时间轴剪切、字幕叠加等），同一时间轴上可堆叠多个工具、一次全搞定。
+- 什么时候用 / 常见坑：适合 Agent 剪辑、批量短视频后期；100% 本地运行、零云端、零 API Key、零多余 Python 依赖；评论区提醒（浏览器侧读取）：42 个工具全暴露给模型，工具描述本身吃上下文；横转竖时参数合规不代表人物没被裁掉，主体是否保留要单独列进验收。
+
+**适用场景**：Agent 剪辑、批量短视频后期、本地化剪辑流程。
+
+**怎么用它搞钱**：Agent 剪辑流水线搭建 / 批量剪辑代做。
+
+**来源**：[@don_tech1](https://x.com/don_tech1/status/2122097311002374539) · 项目：[kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)（⭐5977 · MIT · 更新于 2026-11-16）· 2026-11-16
+
+### @aigcgu（土木ai提效大古）：别拿旗舰模型当"分类器"——判断交给小模型/Decisions API，旗舰只做最终裁决
+
+**核心提炼**
+- 解决什么问题：写 Agent 管线最浪费算力的场景，就是拿旗舰模型干判别式任务：入口判断意图路由调一次 LLM，高危终端命令前安全审查再调一次，批改文档或逐帧质检视频画面异常还得逐条让它吐字——用生成式模型做判别式任务，就像请博士生去流水线上按 Yes/No 按钮。
+- 核心用法（3 步）：1) 分层：本周 Google 在 AI Studio 上线 Gemini Decisions API，单次并行评估多达 1000 个判断项、输出完全免费；算上 Jev（"不说话只给概率"路线）与 OpenAI 的跟进，三大玩家全部入局；2) 方向：让本地小模型（或 Gemini Decisions API）做第一层判断——意图、危险、异常；3) 升级：一旦本地模型无法判断，立刻回调旗舰模型做最终裁决；Agent 架构正在分层：不再用重型生成式大模型干"条件反射"的脏活。
+- 什么时候用 / 常见坑：适合 Agent 管线里有大量 Yes/No 判断、质检、路由的场景；同串后续自回复中的 System1+System2 混合架构细节与 Remotion 帧溢出检测用例为浏览器侧读取、API 未逐条核验，仅供参考；Jev 8.7 亿美元融资说法为作者口径，未独立核验。
+
+**适用场景**：Agent 视频管线、需要批量质检/路由/安审的自动化流程。
+
+**怎么用它搞钱**：Agent 管线成本优化咨询 / 质检环节代建。
+
+**来源**：[@aigcgu](https://x.com/aigcgu/status/2122123164830601614) · 另见同串 Gemini Decisions API 上线帖：[@aigcgu](https://x.com/aigcgu/status/2122123162838266077) · 2026-11-16
+
+### OpenFilm（openfilm/openfilm）
+
+**核心提炼**
+- 解决什么问题：想让 coding agent 拍视频，又想随时改；OpenFilm 让 Agent 写 film.html（一个 HTML 文件就是一部片），本地 Studio 编辑器里能改任意元素。
+- 核心用法（4 步）：1) 让 Codex、Claude Code 或任何 coding agent 拍片：它把片子写成网页；2) 一个 HTML 文件：film.html 把动画网页、素材、图片、声音剪到轨道上，用 CSS 定样式，Agent 本来就会写网页、不用学新东西；3) 一个函数：每个镜头是一个网页，用 frame(t) 画出任意时刻的画面，可用 three.js、WebGL、canvas、SVG、CSS、GSAP、视频，不用 Remotion/HyperFrames 这类框架；4) 一个真编辑器：Studio 在浏览器里本地跑，拖动、缩放、旋转页面内任意元素，改文字、颜色、样式，裁剪、摆片、剪时间线。
+- 什么时候用 / 常见坑：适合会用 coding agent、想用代码拍片又要能手改的人；需 Node 22.2+ 与 ffmpeg，首次运行下载无头 Chromium；上线视频由 OpenFilm 从头到尾制作。
+
+**适用场景**：代码拍片、想让 Agent 拍片又保留人工修改权的人。
+
+**怎么用它搞钱**：代码视频代做 / Agent 拍片工作室搭建。
+
+**来源**：[openfilm/openfilm](https://github.com/openfilm/openfilm) · ⭐7521 · MIT · 更新于 2026-11-16
+
+### BaoCut（JimLiu/baocut）
+
+**核心提炼**
+- 解决什么问题：视频编辑还得人一帧帧动手；BaoCut 是"为 Agent 而生的视频编辑器"，一句话交给 Agent，转录、字幕、翻译、配音、剪口播、做科普片，完了在时间线上继续手改。
+- 核心用法（4 步）：1) 下载桌面端（macOS/Windows），首次打开后 baocut 命令进终端，baocut status 列出本机能力与缺失项；2) 装 skill：baocut skill install，Agent 就知道何时、如何用它；3) 一句话下单：转录、字幕、翻译配音、剪口播录像、从零做讲解片，Agent 用命令剪、结果落在可继续编辑的时间线上；4) 看一遍、口头告诉 Agent 改哪，或自己拖时间线改。
+- 什么时候用 / 常见坑：适合口播、访谈、科普片后期；LICENSE 未识别，商用前先确认授权；桌面端 + skill 的组合，Agent 与人各管一段。
+
+**适用场景**：口播/访谈/科普片后期、想让 Agent 先剪一版的人。
+
+**怎么用它搞钱**：口播剪辑代做 / Agent 剪辑工作室。
+
+**来源**：[JimLiu/baocut](https://github.com/JimLiu/baocut) · ⭐1772 · LICENSE 未识别 · 更新于 2026-11-15
+
+### Director（video-db/Director）
+
+**核心提炼**
+- 解决什么问题：想自己搭视频 Agent（搜索、剪辑、合辑、生成），缺一个框架；Director 是建视频 Agent 的框架，跑在 VideoDB "Video-as-Data" 基础设施上。
+- 核心用法（3 步）：1) 按框架搭能推理复杂视频任务的 Agent：搜索、剪辑、合辑、生成等，结果即时流式返回；2) 一键部署到 Render/Railway，也有自托管版本可试；3) 看官方文档与演示视频选场景接入。
+- 什么时候用 / 常见坑：适合想搭视频 Agent 产品、做视频搜索/剪辑/合辑服务的开发者；框架偏基础设施层，要自己接 VideoDB 与业务逻辑。
+
+**适用场景**：视频 Agent 产品、视频搜索/剪辑服务开发者。
+
+**怎么用它搞钱**：视频 Agent 产品开发 / 视频搜索剪辑服务。
+
+**来源**：[video-db/Director](https://github.com/video-db/Director) · ⭐1587 · MIT · 更新于 2026-11-15
+
+### Pilipili-AutoVideo（OpenDemon/Pilipili-AutoVideo）
+
+**核心提炼**
+- 解决什么问题：一句话到带字幕成片，中间环节太多；这是全本地部署的 AI 视频 Agent，一句话进去、成片出来，还附一份剪映草稿供人手精修。
+- 核心用法（5 步）：1) 一句话描述视频；2) 系统自动跑脚本规划 → 关键帧生图 → TTS 配音 → 视频片段生成 → FFmpeg 合成 → 烧字幕；3) 最值钱的一点：先出配音、量准毫秒级时长，再拿它控视频时长，音画绝对同步；4) 关键帧锁定：Nano Banana 先出 4K 关键帧图，再图生视频出片；5) 成片附剪映草稿，最后人手精修。
+- 什么时候用 / 常见坑：适合想本地跑、要字幕成片还想留一手精修的人；LICENSE 文件未识别（README 徽章自述 MIT），商用前先确认授权。
+
+**适用场景**：本地化短视频、要字幕成片的个人创作者。
+
+**怎么用它搞钱**：本地化短视频代做 / 一句话成片服务。
+
+**来源**：[OpenDemon/Pilipili-AutoVideo](https://github.com/OpenDemon/Pilipili-AutoVideo) · ⭐210 · LICENSE 文件未识别（README 徽章自述 MIT）· 更新于 2026-11-16
+
+### AI 视频制作智能体（xuanyuanzhifeng/ai-video-agent）
+
+**核心提炼**
+- 解决什么问题：从想法到可播放视频草稿，中间缺一个自动化的工作台；这是基于 Next.js 的 AI 视频创作工作台，输入一句主题或一段需求，自动走完意图识别、大纲、分镜、旁白配音、字幕同步与预览导出。
+- 核心用法（4 步）：1) 两种模式：image（文生图分镜，适合知识讲解、口播轮播）与 html（AI 生成 HTML/CSS/JS 动画分镜，适合科技演示、动态可视化）；2) 对话式创作入口，自动判断是在生成大纲还是增删改某个分镜；3) 单个分镜可重生成，不必整条推倒重来；长任务中断后已完成内容保留；4) 浏览器内预览，支持 MP4 导出，图片、音频等产物本地保存。
+- 什么时候用 / 常见坑：适合快速搭 AI 视频生成 Demo、视频工作流原型或内部创作工具；作者自述为实验性开源项目、可能仍有 Bug，暂无 LICENSE，商用前先确认授权。
+
+**适用场景**：想快速验证视频工作流的产品、内部创作工具。
+
+**怎么用它搞钱**：视频工作流原型开发 / 内部创作工具搭建。
+
+**来源**：[xuanyuanzhifeng/ai-video-agent](https://github.com/xuanyuanzhifeng/ai-video-agent) · ⭐163 · 暂无 LICENSE · 更新于 2026-11-14
+
+### Showvi（sjtuplayer/showvi）
+
+**核心提炼**
+- 解决什么问题：长视频最难的是前后不连贯——角色突然变脸、场景莫名跳转、叙事逻辑断裂；Showvi 是一套多智能体协作的端到端视频自动生产系统，核心是持续自我优化的生产闭环，不是一次调 API 出一段视频。
+- 核心用法（4 步）：1) 输入一句话创意、一段小说或一个参考视频；2) 多个专职 Agent 接力：剧本、分镜、参考图生成，到视频生成、质量审核、智能改写、最终剪辑；3) 跨分段实体状态追踪（换装、受伤、变身等）+ 连续性导演 Agent 全局把控画面衔接与叙事逻辑；4) 基于 Seedance 2.0，质量审核不过就改写重生成、直到过关。
+- 什么时候用 / 常见坑：适合长视频、连续剧情、小说改编；仓库 127★ MIT，2026-11-11 更新，偏新，需自己跑通验证。
+
+**适用场景**：长视频、连续剧情、小说改编创作者。
+
+**怎么用它搞钱**：长视频代做 / 多智能体生产系统搭建。
+
+**来源**：[sjtuplayer/showvi](https://github.com/sjtuplayer/showvi) · ⭐127 · MIT · 更新于 2026-11-11
+
 ## 收录标准
 
 - 来源：X 博主实战分享（原帖 / 评论区 / 引用链）及 GitHub 高星项目
@@ -842,6 +1249,7 @@
 
 ## 更新日志
 
+- 2026-11-16：早档搜集（优先队列第 10 天，第三轮）——X 新增 27 条管线实战帖提炼入库（25 个条目：@zdt0403 social-auto-upload 分发实测 / @somi_ai OCR 自检闭环 / @Manorgw 魔因漫创 + oowaoo（火宝短剧已在库内不重复）/ @KOF97AI H3 导演级工作流 / @snakeace 错误别传到下一层 + 独立 agent 盲审 / @l1483705 短剧流水线四层架构 / @PixelAigc 双语 MV 单人流水线 / @swordBluesy n8n 三道防线控成本 / @awe0_io 8 个视频 AI 选型 / @macdog 30 条灵修视频 README-first 博客 / @DylanGrabowski "cut that" 口播流水线 + 递归学习 / @HeLi8866 20 仓库动效工作室 / @Chenfacai0 14 个开源项目交 Opus 5.5 / @KOF97AI MiniMaxDirector 三轨道时间线 / @beebidao 5 件套 Muse 工具链 / @GeekCatX AI 美女七步复刻教程 / @vintcessun Freefield 清单驱动 / @AgentSparko LTX 许可证选型 / @xiaojiangtt 先管人物一致性再谈批量 / @GitTrend0x mileson 中文视频全流水线 / @daodao166888 极限生存 + 人类冷知识双案例 / @shengtang135754 Antigravity + Colab G4 预装 H3 / @Manorgw + @xoyif63862452 OpenMontage 12 条流水线 + 1.33 美元案例 / @don_tech1 ffmpeg-skill 42 工具本地剪辑 / @aigcgu Gemini Decisions API 分层判断）；GitHub 新增 16 个项目（X 帖带入 10 个：AIMixer/ComfyUI_MiniMaxH3_Director 2817★、imbutus/ComfyUI-MiniMaxDirector 131★、neuregex/freefield 1443★、kajisho5/ffmpeg-skill 5977★、MemeCalculate/moyin-creator 4855★、waooAI/waoowaoo 14865★、mileson/chaojifeng-video-content-creator 86★、dreammis/social-auto-upload 16568★、OpenMontageInc/OpenMontage 80726★、andyhuo520/vibe-knowledge 673★；补充关键词 `ai video agent` 命中 6 个：openfilm 7521★、baocut 1772★、video-db/Director 1587★、Pilipili-AutoVideo 210★、ai-video-agent 163★、showvi 127★；文档关键词 `ai video pipeline`/`video generation workflow` 0 新、`ai video automation` 补充 0 新）；老条目 star 刷新 24 个（hyperframes 68514→84757、hypit 27564→30013、Toonflow 18670→21900、huobao-drama 16962→17526、autoclip 9601→10518、Y2A-Auto 3936→5011、Jellyfish 6791→7190、huashu-motion 1194→2743、vibe-knowledge-film 484→1345（已迁移 HeyChengC）、awesome-claude-video-skills 772→2156、automate-faceless-content 3170→3300、short-video-factory 6031→6153、infinite-creation 189→347、ComfyUI-MiniMax-H3-Workflow 130→474、ComfyUI-H3-Motion-Context 1339→1370、aid-studio 1275→1434（已迁移 shijue-aid）、AI-Faceless-Video-Generator 521→540、shuohao-skills 4883→6685、autovio 34→37、hermes-video-toolchain 1→19、write-screenplay-skill 8→12、dark-infographic-video-skill 0→2、psych-kepu-video-skill 0→1、blcaptain-lingjian-video 254→256；NickQi688 60★ 不变仅更新日期）；27 帖正文与时间戳均经 fxtwitter API 逐条直读核验，浏览器报告多处偏差已按原文纠正（HeLi8866 与 awe0_io 两份清单原文与报告完全不符、snakeace 无 Seedance/Fable 句、DylanGrabowski 无切语气词/字幕说法、swordBluesy 主帖为三道防线而非成本表、PixelAigc 无 H3 参数与 90/10 拆分、GeekCatX 无 15 张免费图/5 秒 80 积分说法、macdog 博客无 30 条低于 3 美元/27 条一次过说法、Manorgw 第三项为 huobao-drama 而非 Sume Director Studio、KOF97AI 链接实为 huangserva/ComfyUI_MiniMaxH3_Director、beebidao 原文为 Muse 而非 Claude、xiaojiangtt 合规点为接已登录 Muse 而非调第三方 API、AgentSparko 父帖无时间戳修片说法、aigcgu 解法部分为同串后续自回复未逐条核验、zdt0403 文章无 50MB 约 40 秒/7-8 成功说法）；去重：@Manorgw huobao-drama 与 shuohao-skills、@justloveabit Hypit 均与库内已有条目同仓重合不重复计，仅刷新星数；@itsyhy 日更流水线 Article 已在病毒视频合集库收录，跨库不重复计；剔除：@MinamiAiStudio MCP 工作流（细节未公开、候补名单引流）、@KOF97AI CreatorHub（跨平台搬运工具、合规风险）、@itsyhy Grok Bot 流水线（文字无步骤）、@FootballAnt247 呼吸肩膀提示词（属提示词优化类目，记信号）；14 组关键词×Latest + 31 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；未查完如实注明：作者抽查用 from: 关键词搜索而非逐条翻时间线、未含关键词的帖子可能漏检，窗口最后 1 小时（11-16 08:00–09:00）靠补查覆盖、不能保证无遗漏，@superfang119 的 11-12 索引长文只看了摘要；指针未推进（21:00 档负责）；本轮第 10 天，非汇报日（第 9+10 天两日汇报待第 10 天晚档形成）
 - 2026-11-03：晚档搜集（优先队列第 10 天，第二轮）——X 新增 8 条管线实战帖提炼入库：@Alinsees AI 视频小白指路（3 条变现路 × 3 条画面路线 × 6 层工具架构全局选型地图，云端 1080p 约 0.08–0.15 元/秒、2 分钟成片约 100–130 元，OPC 接单按分钟交付）/ @PixelAigc 最稳 H3 工作流（首尾帧/文生/图生视频 + Turbo LoRA，8G 4080 与 12G 3060 均可跑，pixelaigc/ComfyUI-MiniMax-H3-Workflow 130★ 暂无 LICENSE）/ @superfang119×2（Infinite Creation 小说一键转长视频本地 Agent 流水线：人物圣经 + 风格指南 + 场景站位表、35 个 Skill、66 种风格模板，SwotAtmk/infinite-creation 189★ MIT；知微学导演 12 长视频连续性：故事状态表 + Motion Context OFF/ON 对照选片、返工 138 帧、两窗均"局部接受保留偏差"，工具 NikoDemon80/ComfyUI-H3-Motion-Context 1339★ GPL-3.0）/ @jarvis11x Muse 工具实测（一句话拆 N 个 10 秒镜头、批量抽卡 + 自动选片拼长片，帖内无仓库链接只收方法）/ @evals_ag 一个 AI 导演 × 4 模型（任务书不写分镜、定妆照先行、8 段式骨架、Seedance 拒拍后换机补拍、对白分工）/ @TanLuAI ComfyUI 保姆级教程（节点/连线/工作流入门 + H3 官方模板 21 节点拆解、快速模式开关、缓存机制）/ @AGUI72678775 Google Flow + Veo 3.1 西安旅游 31.67 秒全流程（四幕 ×7.9 秒、强制静音演员、侧链闪避混音、字幕安全区）；10 帖正文与时间戳均经 fxtwitter API 逐条直读核验，浏览器报告三处偏差已按原文纠正（@superfang119 连续性课非"ON 更优"、实为两窗一 OFF 一 ON 且均保留偏差；@evals_ag 非"改写提示词绕过拒绝"、实为换 Kling 3.0 Pro 补拍；@TanLuAI 文章无"批量排队 10–20 条、配音字幕 BGM 导出 1080p"说法）；去重：@Manorgw huobao-drama 帖与库内已有条目同仓重合不重复计，仅刷新星数 16453→16962；@ganfanren_ai MoneyPrinterTurbo 帖与库内 7 套选型地图条目同仓重合不重复计（仓库当日核验 138001★ MIT）；10 组关键词×Latest + 10 位作者时间线抽查全部查完，登录态正常、全程只读无互动、未遇真人验证；指针推进→人物构建（优先队列第 11 天，第二轮）；本轮第 10 天，已形成第 9+10 天两日汇报（见 final message）
 
 - 2026-11-03：午档搜集（优先队列第 10 天，第二轮）——X 新增 4 条管线实战帖提炼入库：@cug_denghy 小学语文讲解视频全流程（1 分 54 秒、15 镜绘本式图片视频：三源核课文、人物配置锁定、每句≤15 字、分镜导出脚本、免费配音缓存与静音裁剪、一条命令合成、三道人工关、A 轻量动 + 少量 B 关键镜头混合升级路线）/ @egguy7 小说改短剧工业化转译（国内外双模式、动作解耦原子节拍、四步去 AI 味，egguy886/write-screenplay-skill 8★ MIT）/ @XunDavid80270 散装素材拼片提示词（先问 5 问、只认实测时长、按秒配旁白、字幕与拼接命令成套出、抽帧验片只改不合格一步）/ @sunbaolong_2001 Pika H3 Flex 上 ComfyUI（4090 上 5 秒 29 秒 / 10 秒 61 秒、两阶段渐进采样、附 6 条在线工作流）；5 帖正文与时间戳均经 fxtwitter API 逐条直读核验，浏览器报告偏差已按原文纠正（@cug_denghy 文章工具链与浏览器报告不符、本条以文章原文为准，浏览器所称"每镜抽 3–4 次、双人对话"文章无此说法；@sunbaolong_2001 主帖 11:00→11:10、漏列第 6 条工作流）；去重：@Manorgw 的 shuohao-skills 前期流程帖与库内已有条目（eternityspring/shuohao-skills）同仓重合不重复计，仅刷新星数 4883→5928；剔除：@guanmo_ai Opus 导演 + Seedance 渲染 30 秒一镜到底（仅两段式分工结论 + 成片分镜描述、无可复用步骤）、@TaoTaoOps 与 @Aiwithpoonam 提示词串文中的制作系统条目（仅阶段清单、无工具与步骤）、@SwordXyj Remotion 代码驱动视频（非 AI 生成式管线、库内已有 Remotion 条目）；8 组关键词×Latest + 10 位作者时间线抽查，登录态正常、全程只读无互动、未遇真人验证；指针未推进（21:00 档负责）
